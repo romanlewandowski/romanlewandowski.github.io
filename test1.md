@@ -14,3 +14,4 @@ Mieszkając od 22 lat w Olsztynku obserwuję, jak zmieniał się on na lepsze, s
 Moim marzeniem jest, aby mieszkańcy naszej Gminy nie musieli wyjeżdżać za chlebem, ale tu mogli budować swoją przyszłość.
 
 [Osiągnięcia naukowe](https://www.researchgate.net/profile/Roman_Lewandowski2)
+
