@@ -1,1 +1,42 @@
-theme: jekyll-theme-minimal
+name: Roman Lewandowski
+title: Roman Lewandowski
+email: rlewando@wp.pl
+description: >-
+  Strona domowa Romana Lewandowskiego
+baseurl: "/"
+url: "http://romanlewandowski.pl" 
+
+title_separator: "|"
+site.locale: pl-PL
+search: false
+
+
+# Build settings
+markdown: kramdown
+plugins:
+  # no plugins
+remote_theme: "mmistakes/minimal-mistakes"
+
+# Site Author
+author:
+  name             : "Roman Lewandowski"
+  avatar           : "/assets/images/roman-lewandowski.jpg"
+  bio              : "Kandydat do Rady Gminy w Olsztynku. Okręg nr 2.<br /><br /> <a href=\"/program2014\">Program z poprzedniej kampanii wyborczej udało się zrealizować</a>"
+  location         : "Olsztynek"
+  email            : rlewando@wp.pl
+  facebook         : https://www.facebook.com/roman.lewandowski.906
+  linkedin         : https://www.linkedin.com/in/roman-lewandowski-6693a7b3/
+  youtube          : https://www.youtube.com/user/romanlewandowski
+
+## Front matter defaults
+defaults:
+  - scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: single
+      author_profile: true
+        
+
+exclude:
+  - Gemfile
+  - Gemfile.lock

@@ -1,0 +1,103 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+
+
+/** VARIABLES **/
+// $link-color: #6b11ff;
+// $masthead-link-color: white;
+
+// disable animations:
+// $intro-transition  : none;
+// $global-transition : none;
+
+
+
+/** MINIMAL MISTAKES IMPORTS **/
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+
+
+/** CUSTOM CSS **/
+.masthead {
+    background: #134611;
+    background-image: linear-gradient(130deg, #190E4F, #CA054D); // #CA054D, DF57BC
+    color: white;
+
+    nav {
+        background: none;
+    }
+
+    a {
+        color: white;
+    }
+    a:hover {
+        color: white !important;
+    }
+
+    .greedy-nav a:hover {
+        color: white !important;
+    }
+}
+
+.greedy-nav .hidden-links {
+    background: #134611;
+    background-image: linear-gradient(15deg, #190E4F, #CA054D); // #CA054D, DF57BC
+}
+
+.greedy-nav__toggle {
+    background-color: rgba(255, 255, 255, 0.2) !important;
+}
+
+.search__toggle {
+    color: white !important;
+}
+
+.search__toggle:hover {
+    color: white !important;
+}
+
+.author__avatar img {
+    border-radius: 0 !important;
+    padding: 0 !important;
+    max-width: inherit !important;
+    border: 0 !important; 
+}
+
+.sidebar:hover {
+    opacity: 1 !important;
+}
+
+@media (min-width: 64em) {
+    .sidebar {
+        opacity: 1 !important;
+    }
+}
+
+article img {
+    border: 1px solid #aaa;
+    box-sizing: border-box;
+    -webkit-box-shadow: 2px 2px 8px 2px rgba(0,0,0,0.2);
+    -moz-box-shadow: 2px 2px 8px 2px rgba(0,0,0,0.2);
+    box-shadow: 2px 2px 8px 2px rgba(0,0,0,0.2);
+}
+
+.greedy-nav .visible-links a:before {
+    background: rgba(255, 255, 255, 0.15);
+}
+
+.author__bio a {
+    color: #52adc8;
+}
+
+.author__bio a:visited {
+    color: #7dc2d6;
+}
+
+.author__avatar {
+    width: 120px;
+    height: 120px;
+}
