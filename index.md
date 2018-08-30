@@ -2,7 +2,7 @@
 title: Roman Lewandowski
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin fermentum vestibulum felis, quis auctor libero tincidunt quis. Proin nec consectetur ipsum. Quisque ullamcorper commodo diam, vitae vehicula eros. In neque lorem, congue ac tempor id, sollicitudin eget neque. Nullam blandit ligula magna, et tempor quam bibendum quis. Praesent volutpat, sapien id suscipit dictum, mauris lectus ornare est, eget maximus dui felis eget turpis. Cras vel erat quis mauris placerat semper. Vestibulum elit risus, faucibus ut convallis vitae, pretium sit amet justo. Phasellus risus nibh, interdum dictum felis sed, fermentum mollis dui. Morbi vel nunc velit. Pellentesque maximus ante ut gravida vestibulum. Quisque dictum tortor vitae ex ullamcorper convallis. Aliquam vel nulla bibendum lacus interdum lacinia et non eros.
+Treść pojawi się wkrótce.
 
 
 ## Welcome to GitHub Pages
