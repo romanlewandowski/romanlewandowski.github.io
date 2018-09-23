@@ -21,7 +21,7 @@ remote_theme: "mmistakes/minimal-mistakes"
 author:
   name             : "Roman Lewandowski"
   avatar           : "/assets/images/roman-lewandowski.jpg"
-  bio              : "Kandydat do Rady Gminy w Olsztynku. Okręg nr 2.<br /><br /> <a href=\"/program2014\">Program z poprzedniej kampanii wyborczej udało się zrealizować</a>"
+  bio              : "Kandydat do Rady Gminy w Olsztynku. Okręg nr 2<br /><br /> <a href=\"/program2014\">Program z poprzedniej kampanii wyborczej udało się zrealizować</a>"
   location         : "Olsztynek"
   email            : rlewando@wp.pl
   facebook         : https://www.facebook.com/roman.lewandowski.906
