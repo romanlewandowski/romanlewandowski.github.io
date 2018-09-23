@@ -24,3 +24,4 @@ Ponadto, tak jak do tej pory, będę aktywnie działał na rzecz rozwoju całej 
 
 •	działał na rzecz usprawnienia system odbioru śmieci.
 
+[Pełny peogram komitetu wyborczego OLSZTYNEK-GMINA Z PRZYSZŁOŚCIĄ](http://www.gminazprzyszloscia.pl/program.html)
