@@ -1,17 +1,14 @@
 ---
 title: Roman Lewandowski
 ---
+Zanim Państwo mi zaufacie i oddacie na mnie swój głos, chciałbym pokazać, że wywiązałem się ze wszystkich obietnic, które złożyłem w kampanii wyborczej w 2014 r. W poprzedniej kampanii zaplanowałem sześć szczegółowych celów – wszystkie udało się zrealizować:
+1. Rozwój przedsiębiorczości i tworzenie nowych miejsc pracy
+2. Pozyskiwanie funduszy zewnętrznych (w tym europejskich) na rozwój infrastruktury technicznej, wsparcie lokalnych przedsięwzięć oraz organizacji społecznych
+3. Dbanie o bezpieczeństwo w szkołach i wysoki poziom kształcenia dzieci i młodzieży.
+4. Aktywizacja osób starszych poprzez utworzenie Uniwersytetu Trzeciego Wieku.
+5. Zwiększenie dostępności do usług zdrowotnych
 
-Mieszkając od 22 lat w Olsztynku obserwuję, jak zmieniał się on na lepsze, szczególnie w ostatnim okresie. Jednocześnie jestem przekonany, że Gmina Olsztynek może się rozwijać jeszcze dynamiczniej. Dlatego wykorzystując swoje umiejętności i zdobyte do tej pory doświadczenia zawodowe, jak również naukowe, chciałbym się włączyć w realizację programu Komitetu Wyborczego „Gmina z Przyszłością”. Ze swej strony deklaruję, że szczególnie intensywnie będę się angażował w działania mające na celu poprawę jakości życia mieszkańców, czyli:
+Rada Miejska oczywiście nie buduje fabryk, ale tworzy klimat inwestycyjny, między innymi poprzez uchwalanie odpowiednich miejscowych planów zagospodarowania przestrzennego i aktywne wspieranie inwestorów w pokonywaniu barier administracyjnych.  Właśnie takie działania umożliwiły między innymi rozbudowę zakładu Tymbark i sprowadzenie do Olsztynka centrum dystrybucyjnego Zalando. Inwestycje te nie tylko zapewnią setki miejsc pracy i znaczne wpływy z podatku od nieruchomości do budżetu Gminy, ale też jednocześnie nie będą  uciążliwe dla mieszkańców.
+Nie jest sztuką ściągnięcie do Olsztynka firm, które będą zrujnują komfort naszego życia. Tego typu działalności napraszają się same i trzeba się przed nimi bronić. Dlatego, jako przewodniczący Komisji Gospodarki i Budżetu, stanowczo sprzeciwiałem się budowie fermy kurzej w Platynach. Byłaby ona dolegliwa nie tylko dla mieszkańców Platyn, ale również dla naszego osiedla. Podnoszony w trakcie dyskusji z mieszkańcami Platyn argument, że ferma nie będzie miała na nich wpływu, ponieważ w Polsce przeważają zachodnie wiatry, jest kluczowym argumentem dla naszego sprzeciwu. Planowane miejsce budowy fermy jest położone właśnie na zachód od naszych domów  w odległości tylko 6 km. Patrząc na zdjęcia satelitarne w Google Maps widać, że większość terenu pomiędzy planowaną fermą a naszym osiedlem to pola, przez które zachodnie wiatry mogłyby przenosić w naszym kierunku nie tylko uciążliwy odór, ale także tony szkodliwych pyłów. Ale walka jeszcze nie jest skończona, czeka nas zapewne jeszcze wiele prób
 
-   - rozwój przedsiębiorczości i tworzenie nowych miejsc pracy,
-   - pozyskiwanie funduszy zewnętrznych, w tym europejskich, na rozwój infrastruktury technicznej, wsparcie lokalnych przedsiębiorstw oraz organizacji społecznych,
-   - dbanie o bezpieczeństwo w szkołach i wysoki poziom kształcenia dzieci i młodzieży,
-   - aktywizację osób starszych poprzez utworzenie Uniwersytetu Trzeciego Wieku,
-   - zwiększenie dostępności do usług zdrowotnych,
-   - rozwój budownictwa mieszkaniowego.
-
-Moim marzeniem jest, aby mieszkańcy naszej Gminy nie musieli wyjeżdżać za chlebem, ale tu mogli budować swoją przyszłość.
-
-[Osiągnięcia naukowe](https://www.researchgate.net/profile/Roman_Lewandowski2)
 
