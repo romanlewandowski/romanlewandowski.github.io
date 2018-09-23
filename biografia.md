@@ -1,5 +1,5 @@
 ---
-Roman Lewandowski
+title: Roman Lewandowski
 ---
 
 Od 26 lat jestem mieszkańcem Olsztynka, żyję tu wraz z żoną i trzema synami. Studiowałem na UWM w Olsztynie (wówczas ART), na kierunku Mechanika i Budowa Maszyn, w 1998 roku obroniłem pracę doktorską na Politechnice Warszawskiej. Ukończyłem również studia podyplomowe na kilku kierunkach, m.in.: anglojęzyczne studia Executive MBA w Szkole Businessu Politechniki Warszawskiej.
