@@ -1,7 +1,7 @@
 ---
 title: Roman Lewandowski
 ---
-Zanim Państwo mi zaufacie i oddacie na mnie swój głos, chciałbym udowodnić, że wywiązałem się ze wszystkich obietnic, które złożyłem w kampanii wyborczej w 2014 r. W poprzedniej kampanii zaplanowałem sześć szczegółowych celów – wszystkie udało się zrealizować:
+Zanim Państwo mi zaufacie i oddacie na mnie swój głos, chciałbym udowodnić, że wywiązałem się ze wszystkich [obietnic, które złożyłem w kampanii wyborczej w 2014 r.](/assets/images/Ulotka2014znakwodny.jpg) W poprzedniej kampanii zaplanowałem sześć szczegółowych celów – wszystkie udało się zrealizować:
 1. Rozwój przedsiębiorczości i tworzenie nowych miejsc pracy
 2. Pozyskiwanie funduszy zewnętrznych (w tym europejskich) na rozwój infrastruktury technicznej, wsparcie lokalnych przedsięwzięć oraz organizacji społecznych
 3. Dbanie o bezpieczeństwo w szkołach i wysoki poziom kształcenia dzieci i młodzieży.
@@ -9,6 +9,7 @@ Zanim Państwo mi zaufacie i oddacie na mnie swój głos, chciałbym udowodnić,
 5. Zwiększenie dostępności do usług zdrowotnych
 
 Rada Miejska oczywiście nie buduje fabryk, ale tworzy klimat inwestycyjny, między innymi poprzez uchwalanie odpowiednich miejscowych planów zagospodarowania przestrzennego i aktywne wspieranie inwestorów w pokonywaniu barier administracyjnych.  Właśnie takie działania umożliwiły między innymi rozbudowę zakładu Tymbark i sprowadzenie do Olsztynka centrum dystrybucyjnego Zalando. Inwestycje te nie tylko zapewnią setki miejsc pracy i znaczne wpływy z podatku od nieruchomości do budżetu Gminy, ale też jednocześnie nie będą  uciążliwe dla mieszkańców.
+
 Nie jest sztuką ściągnięcie do Olsztynka firm, które będą zrujnują komfort naszego życia. Tego typu działalności napraszają się same i trzeba się przed nimi bronić. Dlatego, jako przewodniczący Komisji Gospodarki i Budżetu, stanowczo sprzeciwiałem się budowie fermy kurzej w Platynach. Byłaby ona dolegliwa nie tylko dla mieszkańców Platyn, ale również dla naszego osiedla. Podnoszony w trakcie dyskusji z mieszkańcami Platyn argument, że ferma nie będzie miała na nich wpływu, ponieważ w Polsce przeważają zachodnie wiatry, jest kluczowym argumentem dla naszego sprzeciwu. Planowane miejsce budowy fermy jest położone właśnie na zachód od naszych domów  w odległości tylko 6 km. Patrząc na zdjęcia satelitarne w Google Maps widać, że większość terenu pomiędzy planowaną fermą a naszym osiedlem to pola, przez które zachodnie wiatry mogłyby przenosić w naszym kierunku nie tylko uciążliwy odór, ale także tony szkodliwych pyłów. Ale walka jeszcze nie jest skończona, czeka nas zapewne jeszcze wiele prób.
 
 ![Mapa Platyny-Olsztynek](/assets/images/Platynyodle8.jpg)
@@ -19,5 +20,8 @@ W obecnej kadencji, a dokładniej w latach 2014-2018, Gmina pozyskała 17,2 mln 
 [Więcej na temat zadłużenia gminy ...](/assets/images/DługGminyOlsztynek2.pdf)
 
 Zrównoważony rozwój Gminy, to także dbanie o jej najmłodszych i najstarszych mieszkańców. W minionej kadencji udało się wybudować żłobek oraz powiększyć liczbę miejsc w przedszkolu o trzy dodatkowe grupy. Ponadto, przeprowadzono szereg inwestycji w szkołach. Największa z nich to modernizacja sali gimnastycznej w Zespole Szkolno-Przedszkolnym w Waplewie opiewająca na kwotę prawie 1 mln zł. Jeżeli chodzi o osoby starsze, to w minionej kadencji powstał Uniwersytet Trzeciego Wieku, a w ostatnim czasie rozpoczęto modernizację Domu Dziennego Pobytu dla Seniorów. Została już przygotowana sala do pracy warsztatowej, odremontowano pomieszczenia kuchni, stołówki i pokój pielęgniarsko-zabiegowy. Zakupiono również wyposażenie do odnowionych pomieszczeń oraz wzbogacono salę gimnastyczną o sprzęt sportowy.
-Od kilku lat opłacamy szczepienia osób starszych przeciwko grypie, co pozwala na większą dostępność do tego typu profilaktyki i tym samym zmniejszyć skutki grypy w populacji najbardziej narażonej na powikłania wywołane tą chorobą. 
+
+Od kilku lat opłacamy szczepienia osób starszych przeciwko grypie, co pozwala na większą dostępność do tego typu profilaktyki i tym samym zmniejszyć skutki grypy w populacji najbardziej narażonej na powikłania wywołane tą chorobą.
+
 Dopełnieniem zrównoważonego rozwoju jest zwiększanie zasobów mieszkaniowych. W mijającej kadencji przygotowano wiele gruntów pod budownictwo mieszkaniowe oraz skutecznie zachęcono developerów. Dobrym przykładem jest rozpoczynająca się niebawem budowa [budynku mieszkalnego przy ul. Jana Pawła II](http://ekobud.ostroda.pl/portfolio-item/osiedle-w-olsztynku-przy-ulicy-jana-pawla-ii/), który na trzech piętrach będzie obejmował 70 mieszkań i 40 miejsc garażowych skomunikowanych windami. Przed budynkiem powstanie plac zabaw, ogólnodostępny parking i tereny zielone. 
+
