@@ -2,54 +2,15 @@
 title: Roman Lewandowski
 ---
 
-Treść pojawi się wkrótce.
+Mając dużą satysfakcję ze skutecznej realizacji zobowiązań w kończącej się kadencji, w nowej chciałbym zdecydowanie bardziej skoncentrować się na problemach naszego osiedla. W pierwszej kolejności będę zabiegał o:
+•	sukcesywną wymianę chodników, zaczynając od ul. Akacjowej, Lipowej, Kasztanowej oraz poprawę nawierzchni ulic,
+•	wymianę ogrodzenia boiska i zagospodarowanie placu zabaw na rogu ulic Akacjowej i Lipowej, 
+Ponadto, tak jak do tej pory, będę aktywnie działał na rzecz rozwoju całej gminy, przede wszystkim będę:
+•	zabiegał o nowych inwestorów i kolejne miejsca pracy, co zwiększy dochody gminy i wpłynie na podniesienie poziomu płac,
+•	wspierał rozwój lokalnego biznesu,
+•	dbał o poprawę estetyki naszego miasta, w tym terenów zielonych,
+•	zwiększał dostęp młodzieży do wartościowych form spędzania wolnego czasu poprzez poszerzanie zakresu działalności Domu Kultury,
+•	podejmował inicjatywy obniżające koszty budżetu gminy poprzez inwestowanie m.in. w energooszczędne oświetlenie,
+•	chronił czystość otaczającego nas środowiska poprzez wspieranie programu dofinansowań do wymiany pieców na bardziej ekologiczne, jak też blokowanie budowy uciążliwego przemysłu,
+•	działał na rzecz usprawnienia system odbioru śmieci.
 
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/romanlewandowski/romanlewandowski.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-![widok Ratusza](/assets/images/Olsztynek.jpg)
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/romanlewandowski/romanlewandowski.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-Etiam eu justo tristique, lobortis felis a, congue turpis. Sed urna massa, commodo vitae mauris nec, tincidunt interdum nisi. Ut iaculis mauris consectetur tempus egestas. Integer semper, nisi non tincidunt semper, augue risus pellentesque neque, nec convallis quam mi non orci. Mauris tellus dolor, suscipit vitae nisl id, tristique tempor turpis. Quisque a lectus eros. Duis auctor interdum magna, in aliquam elit sollicitudin eget. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Cras urna orci, posuere et quam eget, blandit cursus tortor. Suspendisse augue quam, condimentum at massa rhoncus, condimentum laoreet neque. Aliquam erat volutpat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-
-Curabitur ac laoreet turpis. In pulvinar quam vitae molestie dictum. Pellentesque eu enim at purus varius vestibulum in vitae neque. Phasellus porta mauris quam, et dapibus sapien bibendum in. Fusce ut quam dapibus, lacinia est sed, tincidunt odio. Praesent nec metus eget lectus laoreet pretium. Suspendisse rhoncus augue a mattis efficitur. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla congue viverra enim et aliquam. Pellentesque pharetra ligula diam, eu suscipit metus pulvinar id.
-
-Nullam nec ultricies nisi. Aliquam eleifend dignissim leo non dictum. Morbi gravida in massa id elementum. Suspendisse nisl elit, rhoncus ut sagittis non, vestibulum sit amet nibh. Suspendisse in sagittis dolor, eget cursus lacus. Praesent blandit lorem quam, in tincidunt libero accumsan at. Praesent iaculis leo quam. Aenean lacinia nisl nec augue dapibus, ut dapibus lorem commodo. Donec elit arcu, auctor quis ultrices eu, euismod quis felis. Mauris quis lobortis ligula. Nam vitae ex et massa convallis commodo. Nam eu lorem justo.
-
-Nam eu elementum elit. Etiam ac arcu scelerisque, gravida nulla placerat, sodales metus. Aenean pulvinar justo quis consectetur porta. Mauris porttitor lorem leo. Vivamus sagittis enim sapien, vel condimentum tellus congue et. Aenean et orci vel lacus rhoncus fermentum in ac nunc. Suspendisse feugiat consectetur urna sit amet interdum.
