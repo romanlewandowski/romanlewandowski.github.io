@@ -1,5 +1,5 @@
 ---
-title: Plany naszego komitetu wyborczego na najbliższe pięć lat
+title: Program zrównoważonego rozwoju Miasta i Gminy Olsztynek
 permalink: /program2018
 ---
 
