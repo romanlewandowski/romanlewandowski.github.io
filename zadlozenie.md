@@ -24,7 +24,7 @@ Do końca roku część kredytu zostanie wykorzystana, ponieważ jest realizowan
 
 Generalnie uważam, że wspieranie inwestycji kredytami w ostatnich latach było korzystne dla gminy, ponieważ po pierwsze, był to pewnie ostatni okres, kiedy tak duże środki europejskie były dostępne i rezygnacja z ich pozyskiwania z uwagi na brak wkładu własnego byłaby sporym błędem, a po drugie, wzrost cen robót budowlanych pokazuje, że wykonanie tych samych inwestycji obecnie kosztowałoby znacznie więcej. Z porównania kilkudziesięcioprocentowego wzrostu kosztów robót budowlanych w ostatnich latach z oprocentowaniem kredytu wynegocjowanego przez gminę na poziomie 2,68% rocznie (WIBOR 3M = 1,72% + 0,96% marży) jasno wynika, że zaciąganie kredytów inwestycyjnych było zdecydowanie korzystne dla naszej gminy.
 
-Warto też zwrócić uwagę na koszty obsługi długu, które nie przekraczają 0,9% wszystkich wydatków.
+Warto też zwrócić uwagę na niskie koszty obsługi długu, które nie przekraczają 0,9% wszystkich wydatków.
 ![Zestawienie_Robert](/assets/images/Robert_Budzet_maly.jpg)
 Źródło: http://robertwaraksa.pl/.     [Powiększ](/assets/images/Robert_Budzet.jpg)
 
