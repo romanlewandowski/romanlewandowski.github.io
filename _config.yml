@@ -20,7 +20,7 @@ remote_theme: "mmistakes/minimal-mistakes"
 # Site Author
 author:
   avatar           : "/assets/images/roman-lewandowski.jpg"
-  bio              : "Bezpartyjny kandydat do Rady Gminy w Olsztynku. Okręg nr 2<br /><br /> <a href=\"/obietnicez2014\">Program z poprzedniej kampanii wyborczej udało się zrealizować</a>"
+  bio              : "**Bezpartyjny kandydat do Rady Gminy w Olsztynku. Okręg nr 2**<br /><br /> <a href=\"/obietnicez2014\">Program z poprzedniej kampanii wyborczej udało się zrealizować</a>"
   email            : rlewando@wp.pl
   facebook         : roman.lewandowski.906
   linkedin         : roman-lewandowski-6693a7b3
