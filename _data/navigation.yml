@@ -7,3 +7,5 @@ main:
     url: /biografia
   - title: "Gospodarka finansowa"
     url: /zadlozenie
+  - title: "Gospodarka odpadami"
+    url: /odpady
