@@ -1,5 +1,5 @@
 ---
-title: Roman Lewandowski
+title: Realizacja programu wyborczego w kadencjię 2014-2018
 ---
 Zanim Państwo mi zaufacie i oddacie na mnie swój głos, chciałbym udowodnić, że wywiązałem się ze wszystkich [obietnic, które złożyłem w kampanii wyborczej w 2014 r.](/assets/images/Ulotka2014znakwodny.jpg) W poprzedniej kampanii zaplanowałem sześć szczegółowych celów – wszystkie udało się zrealizować:
 1. Rozwój przedsiębiorczości i tworzenie nowych miejsc pracy
