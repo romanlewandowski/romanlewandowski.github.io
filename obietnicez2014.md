@@ -23,7 +23,7 @@ Zrównoważony rozwój Gminy, to także dbanie o jej najmłodszych i najstarszyc
 
 Od kilku lat opłacamy szczepienia osób starszych przeciwko grypie, co pozwala na większą dostępność do tego typu profilaktyki i tym samym zmniejszyć skutki grypy w populacji najbardziej narażonej na powikłania wywołane tą chorobą.
 
-Dużym osiągnięciem obecnej kadencji jest powołanie dożycia Olsztyneckiego Budżetu Obywatelskiego. Wpisał sie on już w krajobraz funkcjonowania samorządności w naszym mieście. Teraz, gdy zostały już przetarte pierwsze szlaki można spokojnie myśleć nad planami jego rozwoju.
+Dużym osiągnięciem obecnej kadencji jest powołanie do życia Olsztyneckiego Budżetu Obywatelskiego. Wpisał sie on już w krajobraz funkcjonowania samorządności w naszym mieście. Teraz, gdy zostały już przetarte pierwsze szlaki można spokojnie myśleć nad planami jego rozwoju.
 ![OBO](/assets/images/logo_OBO.jpg)
 
 Dopełnieniem zrównoważonego rozwoju jest zwiększanie zasobów mieszkaniowych. W mijającej kadencji przygotowano wiele gruntów pod budownictwo mieszkaniowe oraz skutecznie zachęcono developerów. Dobrym przykładem jest rozpoczynająca się niebawem budowa [budynku mieszkalnego przy ul. Jana Pawła II](http://ekobud.ostroda.pl/portfolio-item/osiedle-w-olsztynku-przy-ulicy-jana-pawla-ii/), który na trzech piętrach będzie obejmował 70 mieszkań i 40 miejsc garażowych skomunikowanych windami. Przed budynkiem powstanie plac zabaw, ogólnodostępny parking i tereny zielone. 
