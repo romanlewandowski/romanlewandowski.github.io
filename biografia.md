@@ -13,6 +13,7 @@ Od wielu lat angażuję się w działalność społeczną - byłem inicjatorem p
 Jako radny obecnej kadencji działałem na rzecz zrównoważonego rozwoju naszej gminy, w pięciu zasadniczych obszarach: bezpieczeństwo, rozwój gospodarczy i mieszkalnictwo, usługi edukacyjno-wychowawcze, kultura i aktywne spędzanie wolnego czasu, usługi komunalne oraz infrastruktura.
 Bezpieczeństwo, to nie tylko niski poziom przestępczości, ale to przede wszystkim czyste środowisko. Dlatego stanowczo sprzeciwiałem się budowie fermy kurzej w Platynach. Byłaby ona uciążliwa nie tylko dla mieszkańców Platyn, ale również Olsztynka. Niewątpliwie dużym sukcesem obecnej kadencji jest sprowadzenie do Olsztynka firmy Zalando, przyniesie to nie tylko miejsca pracy, ale także istotnie zwiększy wpływy do budżetu gminy. 
 ![Zalando](/assets/images/zalando2_male.jpg)
+Foto: www.bremerbau.pl
 
 Zrównoważony rozwój to zapewnienie miejsc w żłobku, dostępu do usług komunalnych oraz usług z zakresu kultury, sportu i rekreacji. To także zwiększenie zasobów mieszkaniowych oraz inwestycje w infrastrukturę drogową. [Więcej o mojej pracy w Radzie Miejskiej ...](/obietnicez2014.md) 
 
