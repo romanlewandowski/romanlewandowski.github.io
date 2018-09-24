@@ -30,13 +30,11 @@ Utworzymy Radę Seniorów składającą się z przedstawicieli osób starszych o
 * NOWE MIEJSCA W ŻŁOBKU I PRZEDSZKOLACH.
 Kluczowym zadaniem na najbliższą kadencję będzie zapewnienie dodatkowych miejsc dla dzieci w żłobku i przedszkolach. W tym celu podejmiemy niezbędne inwestycje rozbudowując żłobek oraz tworząc filię przedszkola w budynku dotychczasowej szkoły w Mierkach. 
 * KOMUNIKACJA MIEJSKA Z OLSZTYNEM.
-Przy współpracy ze stolicą regionu uruchomimy dogodną i korzystną cenowo komunikację publiczną z Olsztynem. Już dziś prowadzimy negocjacje w tej sprawie z Olsztynem, Stawigudą oraz firmą Zalando. 
+Przy współpracy ze stolicą regionu uruchomimy dogodną i korzystną cenowo komunikację publiczną z Olsztynem. Już dziś prowadzimy negocjacje w tej sprawie z Olsztynem, Stawigudą oraz firmą Zalando. To uż się dzieje.
 * KOMUNIKACJA WEWNĄTRZ GMINY.
-Opracujemy i wdrożymy system publicznej komunikacji gminnej łączącej wioski z Olsztynkiem.  
+Opracujemy i wdrożymy system publicznej komunikacji gminnej łączącej wioski z Olsztynkiem.
 * BUDOWNICTWO SOCJALNE.
 Odpowiemy na potrzeby mieszkaniowe poprzez rozwój budownictwa socjalnego w naszej gminie. Już w 2019 roku zaczniemy budowę 16 mieszkań socjalnych. 
-* USŁUGI OPIEKUŃCZE.
-Rozszerzymy usługi opiekuńcze dla mieszkańców zwiększając ich dostępność na terenach wiejskich. 
 * OPIEKA MEDYCZNA DLA UCZNIÓW.
 Otworzymy w szkołach gabinety pielęgniarskie i stomatologiczne. 
 * ESTETYKA MIASTA.
@@ -63,9 +61,9 @@ Zadbamy o stan nawierzchni ulic i dróg na terenie gminy i miasta Olsztynek. Jes
 Zmodernizujemy strażnicę OSP w Olsztynku. 
 * RENOWACJE
 Zagospodarujemy tereny przy olsztyneckiej plaży oraz przeprowadzimy rewitalizację wieży ciśnień. 
-* ŚCIEKI
-W celu ochrony środowiska będziemy kontynuować program wsparcia w postaci dopłat do ekologicznych i bezpiecznych przydomowych oczyszczalni ścieków. 
-* POWIETRZE
-Zadbamy o czyste powietrze uruchamiając program dofinansowań do wymiany pieców na bardziej ekologiczne. 
+* ŚCIEKI I ODPADY STAŁE.
+W celu ochrony środowiska będziemy kontynuować program wsparcia w postaci dopłat do ekologicznych i bezpiecznych przydomowych oczyszczalni ściekóW oraz szukać optymalnych rozwiązań w zakresie odbioru śmieci.
+* POWIETRZE I OSZCĘDNOŚĆ ENERGII
+Zadbamy o czyste powietrze uruchamiając program dofinansowań do wymiany pieców na bardziej ekologiczne oraz wymianę oświetlenia ulicznego na bardziej energooszczędne.
 
 
