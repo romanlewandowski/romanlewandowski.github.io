@@ -3,25 +3,31 @@ title: Plany naszego komitetu wyborczego na najbliższe pięć lat
 permalink: /program2018
 ---
 
-### PRZYCIĄGANIE INWESTORÓW I NOWE MIEJSCA PRACY
+### Rozwój gospodarczy
+
+* PRZYCIĄGANIE INWESTORÓW I NOWE MIEJSCA PRACY
 Miejsca pracy dla naszych mieszkańców będą naszym głównym wyzwaniem! W ostatnich latach wzrosło zainteresowanie Olsztynkiem wśród inwestorów. Wykorzystamy jeszcze bardziej potencjał gospodarczy naszej gminy oraz jej atrakcyjne położenie. Gmina Olsztynek stała się przyjaznym miejscem dla biznesu. Dlatego będziemy promować i oferować kolejne tereny oraz stwarzać odpowiednie warunki do rozwoju gospodarczego. Podjęliśmy już współpracę z właścicielami działek przy drogach ekspresowych S7 i S51. 
-### WSPARCIE DLA LOKALNEGO BIZNESU
+* WSPARCIE DLA LOKALNEGO BIZNESU
 Odpowiemy na potrzeby rodzimych przedsiębiorców organizując akcje promujące lokalny biznes oraz programy wsparcia. Utworzymy punkt obsługi przedsiębiorców w Ratuszu oraz nawiążemy współpracę z instytucjami finansowymi w celu utworzenia funduszu pożyczkowo-poręczeniowego dla lokalnych firm. 
-### ATRAKCYJNA OFERTA MIESZKANIOWA
+* ATRAKCYJNA OFERTA MIESZKANIOWA
 Młodzi ludzie to nasza przyszłość! O nich należy zadbać szczególnie. Poprzez odpowiednie inwestycje zabezpieczymy ich byt, zachęcając młodzież do związania swojej przyszłość z gminą Olsztynek. W ślad za tym powinna iść szeroka i zrównoważona oferta mieszkaniowa obejmująca budowę nowych osiedli mieszkaniowych oraz przygotowanie działek budowlanych w atrakcyjnych cenach. 
-Olsztynek obywatelski
-### DIALOG Z MIESZKAŃCAMI
+
+### Olsztynek obywatelski
+
+* DIALOG Z MIESZKAŃCAMI
 Nie da się zarządzać gminą bez jej mieszkańców. Konieczne jest zwiększenie Waszego wpływu na sposób rządzenia miastem i konsultowanie kluczowych decyzji. Potrzebne są debaty i otwarte spotkania z mieszkańcami, ale to nie wszystko. Umożliwimy mieszkańcom dostęp do nowoczesnych narzędzi komunikacji, tak by mogli wyrażać swoje opinie przez Internet czy za pomocą aplikacji na telefon. Wdrożymy także sms-owy system powiadamiania mieszkańców, w szczególności o nadchodzących zagrożeniach. 
-### ORGANIZACJE POZARZĄDOWE
+* ORGANIZACJE POZARZĄDOWE
 Społeczeństwo obywatelskie w dużym stopniu kształtuje współpraca samorządu i organizacji pozarządowych, które powinny mieć ważny udział w lokalnym życiu publicznym. W tym celu powołamy Radę Działalności Pożytku Publicznego zapraszając je do dialogu. 
-### POMOC W POZYSKIWANIU ŚRODKÓW
+* POMOC W POZYSKIWANIU ŚRODKÓW
 Ponadto stworzymy warunki służące wymianie doświadczeń, pomysłów i dobrych praktyk pomiędzy organizacjami, ale także wspierające rozwój społecznych aktywności w różnych obszarach. Będziemy wspierać inicjatywy obywatelskie lokalnych organizacji, klubów, kół, ale także grup nieformalnych. Pomoc naszego samorządu będzie obejmowała nie tylko tę finansowa, ale także prawną, współdziałanie w pozyskiwaniu środków finansowych, czy promowanie inicjatyw organizacji pozarządowych. 
-### BUDŻET OBYWATELSKI
+* BUDŻET OBYWATELSKI
 W dalszym ciągu będziemy rozwijać Olsztynecki Budżet Obywatelski zachęcając mieszkańców do współdecydowania o przeznaczeniu środków z gminnego budżetu. 
-### DLA SENIORÓW
+* DLA SENIORÓW
 Utworzymy Radę Seniorów składającą się z przedstawicieli osób starszych oraz przedstawicieli organizacji działających na ich rzecz. 
-Sprawy społeczne
-### NOWE MIEJSCA W ŻŁOBKU I PRZEDSZKOLACH
+
+### Sprawy społeczne
+
+* NOWE MIEJSCA W ŻŁOBKU I PRZEDSZKOLACH
 Kluczowym zadaniem na najbliższą kadencję będzie zapewnienie dodatkowych miejsc dla dzieci w żłobku i przedszkolach. W tym celu podejmiemy niezbędne inwestycje rozbudowując żłobek oraz tworząc filię przedszkola w budynku dotychczasowej szkoły w Mierkach. 
 ### KOMUNIKACJA MIEJSKA Z OLSZTYNEM
 Przy współpracy ze stolicą regionu uruchomimy dogodną i korzystną cenowo komunikację publiczną z Olsztynem. Już dziś prowadzimy negocjacje w tej sprawie z Olsztynem, Stawigudą oraz firmą Zalando. 
