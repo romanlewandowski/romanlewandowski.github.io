@@ -21,7 +21,7 @@ Społeczeństwo obywatelskie w dużym stopniu kształtuje współpraca samorząd
 * POMOC W POZYSKIWANIU ŚRODKÓW.
 Ponadto stworzymy warunki służące wymianie doświadczeń, pomysłów i dobrych praktyk pomiędzy organizacjami, ale także wspierające rozwój społecznych aktywności w różnych obszarach. Będziemy wspierać inicjatywy obywatelskie lokalnych organizacji, klubów, kół, ale także grup nieformalnych. Pomoc naszego samorządu będzie obejmowała nie tylko tę finansowa, ale także prawną, współdziałanie w pozyskiwaniu środków finansowych z UE i programów rządowych, czy promowanie inicjatyw organizacji pozarządowych. 
 * BUDŻET OBYWATELSKI.
-W dalszym ciągu będziemy rozwijać Olsztynecki Budżet Obywatelski zachęcając mieszkańców do współdecydowania o przeznaczeniu środków z gminnego budżetu. 
+W dalszym ciągu będziemy rozwijać Olsztynecki Budżet Obywatelski zachęcając mieszkańców do współdecydowania o przeznaczeniu środków z gminnego budżetu. Jeżeli zostanie wprowadzony, będziemy także korzystali z rządowego programu "Mieszkasz decydujesz".
 * DLA SENIORÓW.
 Utworzymy Radę Seniorów składającą się z przedstawicieli osób starszych oraz przedstawicieli organizacji działających na ich rzecz. 
 
