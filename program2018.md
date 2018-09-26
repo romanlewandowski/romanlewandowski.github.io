@@ -66,4 +66,4 @@ W celu ochrony środowiska będziemy kontynuować program wsparcia w postaci dop
 * POWIETRZE I OSZCĘDNOŚĆ ENERGII
 Zadbamy o czyste powietrze uruchamiając program dofinansowań do wymiany pieców na bardziej ekologiczne oraz wymianę oświetlenia ulicznego na bardziej energooszczędne.
 
-## Do rozwoju wszystkich wymienionych powyżej obszarów będziemy skutecznie, *jak do tej pory*, pozyskiwali fundusze zewnętrzne, w tym z programów rządowych, takich jak „Mieszkanie +”, „Ciepły Dom” czy „Samorządowa Piątka Morawickiego” oraz sektorowych, jak np. z Ministerstwa Obrony Narodowe „Strzelnice w powiecie”.
+### Do rozwoju wszystkich wymienionych powyżej obszarów będziemy skutecznie, *jak do tej pory*, pozyskiwali fundusze zewnętrzne, w tym z programów rządowych, takich jak „Mieszkanie +”, „Ciepły Dom” czy „Samorządowa Piątka Morawickiego” oraz sektorowych, jak np. z Ministerstwa Obrony Narodowe „Strzelnice w powiecie”.
