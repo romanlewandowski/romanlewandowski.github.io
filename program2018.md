@@ -10,7 +10,7 @@ Miejsca pracy dla naszych mieszkańców będą naszym głównym wyzwaniem! W ost
 * WSPARCIE DLA LOKALNEGO BIZNESU.
 Odpowiemy na potrzeby rodzimych przedsiębiorców organizując akcje promujące lokalny biznes oraz programy wsparcia. Utworzymy punkt obsługi przedsiębiorców w Ratuszu oraz nawiążemy współpracę z instytucjami finansowymi w celu utworzenia funduszu pożyczkowo-poręczeniowego dla lokalnych firm. 
 * ATRAKCYJNA OFERTA MIESZKANIOWA.
-Młodzi ludzie to nasza przyszłość! O nich należy zadbać szczególnie. Poprzez odpowiednie inwestycje zabezpieczymy ich byt, zachęcając młodzież do związania swojej przyszłość z gminą Olsztynek. W ślad za tym powinna iść szeroka i zrównoważona oferta mieszkaniowa obejmująca budowę nowych osiedli mieszkaniowych oraz przygotowanie działek budowlanych w atrakcyjnych cenach. 
+Młodzi ludzie to nasza przyszłość! O nich należy zadbać szczególnie. Poprzez odpowiednie inwestycje zabezpieczymy ich byt, zachęcając młodzież do związania swojej przyszłość z gminą Olsztynek. W ślad za tym powinna iść szeroka i zrównoważona oferta mieszkaniowa obejmująca budowę nowych osiedli mieszkaniowych oraz przygotowanie działek budowlanych w atrakcyjnych cenach. Również wejście do rządowego programu „Mieszkanie+”.
 
 ### Olsztynek obywatelski
 
@@ -19,7 +19,7 @@ Nie da się zarządzać gminą bez jej mieszkańców. Konieczne jest zwiększeni
 * ORGANIZACJE POZARZĄDOWE.
 Społeczeństwo obywatelskie w dużym stopniu kształtuje współpraca samorządu i organizacji pozarządowych, które powinny mieć ważny udział w lokalnym życiu publicznym. W tym celu powołamy Radę Działalności Pożytku Publicznego zapraszając je do dialogu. 
 * POMOC W POZYSKIWANIU ŚRODKÓW.
-Ponadto stworzymy warunki służące wymianie doświadczeń, pomysłów i dobrych praktyk pomiędzy organizacjami, ale także wspierające rozwój społecznych aktywności w różnych obszarach. Będziemy wspierać inicjatywy obywatelskie lokalnych organizacji, klubów, kół, ale także grup nieformalnych. Pomoc naszego samorządu będzie obejmowała nie tylko tę finansowa, ale także prawną, współdziałanie w pozyskiwaniu środków finansowych, czy promowanie inicjatyw organizacji pozarządowych. 
+Ponadto stworzymy warunki służące wymianie doświadczeń, pomysłów i dobrych praktyk pomiędzy organizacjami, ale także wspierające rozwój społecznych aktywności w różnych obszarach. Będziemy wspierać inicjatywy obywatelskie lokalnych organizacji, klubów, kół, ale także grup nieformalnych. Pomoc naszego samorządu będzie obejmowała nie tylko tę finansowa, ale także prawną, współdziałanie w pozyskiwaniu środków finansowych z UE i programów rządowych, czy promowanie inicjatyw organizacji pozarządowych. 
 * BUDŻET OBYWATELSKI.
 W dalszym ciągu będziemy rozwijać Olsztynecki Budżet Obywatelski zachęcając mieszkańców do współdecydowania o przeznaczeniu środków z gminnego budżetu. 
 * DLA SENIORÓW.
@@ -62,8 +62,8 @@ Zmodernizujemy strażnicę OSP w Olsztynku.
 * RENOWACJE
 Zagospodarujemy tereny przy olsztyneckiej plaży oraz przeprowadzimy rewitalizację wieży ciśnień. 
 * ŚCIEKI I ODPADY STAŁE.
-W celu ochrony środowiska będziemy kontynuować program wsparcia w postaci dopłat do ekologicznych i bezpiecznych przydomowych oczyszczalni ściekóW oraz szukać optymalnych rozwiązań w zakresie odbioru śmieci.
+W celu ochrony środowiska będziemy kontynuować program wsparcia w postaci dopłat do ekologicznych i bezpiecznych przydomowych oczyszczalni ściekóW oraz szukać optymalnych rozwiązań w zakresie odbioru śmieci, m.in.  wybudujemy w Olsztynku (wstępna lokalizacja: oczyszczalnia ścieków w Olsztynku) we współpracy ze Związkiem Gmin „Czyste Środowisko” i udziałem finansowania zewnętrznego Punkt Selektywnego Zbierania Odpadów Komunalnych (PSZOK).
 * POWIETRZE I OSZCĘDNOŚĆ ENERGII
 Zadbamy o czyste powietrze uruchamiając program dofinansowań do wymiany pieców na bardziej ekologiczne oraz wymianę oświetlenia ulicznego na bardziej energooszczędne.
 
-
+# Do rozwoju wszystkich wymienionych powyżej obszarów będziemy skutecznie, *jak do tej pory*, pozyskiwali fundusze zewnętrzne, w tym z programów rządowych, takich jak „Mieszkanie +”, „Ciepły Dom” czy „Samorządowa Piątka Morawickiego” oraz sektorowych, jak np. z Ministerstwa Obrony Narodowe „Strzelnice w powiecie”.
