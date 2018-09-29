@@ -34,4 +34,4 @@ Prowadzę również wykłady na Uniwersytecie Gdańskim na studiach podyplomowyc
 
 Aktywnie włączam się także w usprawnianie systemu ochrony zdrowia w Polsce. Od wielu lat  działam na rzecz rehabilitacji osób niepełnosprawnych zakładając w 2009 roku Ogólnopolski Związek Pracodawców Rehabilitacji Dziecięcej. Pełniąc funkcję prezesa tego związku wielokrotnie aktywnie uczestniczyłem w tworzeniu i opiniowaniu aktów prawnych dotyczących organizacji i finansowania rehabilitacji w naszym kraju. 
 
-Współpracuję w tym zakresie z Agencją Oceny Technologii Medycznych i Taryfikacji. Jestem również członkiem Rady Naczelnej Polskiej Federacji Szpitali oraz Warmińsko – Mazurskiego Związku Pracodawców  Szpitali  Specjalistycznych.
+Współpracuję w tym zakresie z [Agencją Oceny Technologii Medycznych i Taryfikacji](http://www.aotm.gov.pl/www/). Jestem również członkiem Rady Naczelnej Polskiej Federacji Szpitali oraz Warmińsko – Mazurskiego Związku Pracodawców  Szpitali  Specjalistycznych.
