@@ -2,7 +2,7 @@
 title: Moja dotychczasowa działalność
 ---
 
-Od 26 lat jestem mieszkańcem Olsztynka, żyję tu wraz z żoną i trzema synami. Studiowałem na UWM w Olsztynie (wówczas ART), na kierunku Mechanika i Budowa Maszyn, w 1998 roku obroniłem pracę doktorską na Politechnice Warszawskiej. Ukończyłem również studia podyplomowe na kilku kierunkach, m.in.: anglojęzyczne studia Executive MBA w Szkole Businessu Politechniki Warszawskiej.
+Od 32 lat jestem mieszkańcem Olsztynka, żyję tu wraz z żoną i trzema synami. Wykształcenie zdobyłem na UWM w Olsztynie (wówczas ART), na kierunku Mechanika i Budowa Maszyn, w 1998 roku obroniłem pracę doktorską na Politechnice Warszawskiej związaną z modelowaniem matematycznym, w 2023 roku uzyskałem stopień doktora habilitowanego w dyscyplinie nauki o zarządzaniu i jakości na Uniwersytecie Jagiellońskim i objąłem stanowisko profesora Uniwersytetu Warmińsko-Mazurskiego na Wydziale Nauk Ekonomicznych.
 
 Całe moje zawodowe życie jest związane z gminą Olsztynek. W latach 1992-1995 pracowałem jako nauczyciel w Zespole Szkół w Olsztynku, następnie przez 5 lat byłem specjalistą ds. informatyki w firmie Central Soya Olsztynek (obecnie Nutripol). W 1999 roku podjąłem pracę w Wojewódzkim Szpitalu Rehabilitacyjnym dla Dzieci w Ameryce, najpierw na stanowisku zastępcy dyrektora, a od 2003 roku dyrektora Szpitala. W tym czasie udało się całkowicie zmodernizować Szpital, ponad dwukrotnie zwiększyć powierzchnię użytkową i liczbę łóżek, wyposażyć Szpital w najnowszą aparaturę medyczną i rehabilitacyjną, wybudować nowoczesny blok operacyjny i tym samym poszerzyć zakres świadczonych usług m.in. o chirurgię jednego dnia oraz poradnie specjalistyczne.
 ![Szpital Front](/assets/images/Szpital_front.jpg)
