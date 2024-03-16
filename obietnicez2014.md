@@ -1,7 +1,7 @@
 ---
 title: Realizacja programu wyborczego w latach 2019-2023
 ---
-Test Zanim Państwo mi zaufacie i oddacie na mnie swój głos, chciałbym udowodnić, że wywiązałem się ze wszystkich [obietnic, które złożyłem w kampanii wyborczej w 2014 r.](/assets/images/Ulotka2014znakwodny.jpg) W poprzedniej kampanii zaplanowałem sześć szczegółowych celów – wszystkie udało się zrealizować:
+AAAAAAAAAAAAA Zanim Państwo mi zaufacie i oddacie na mnie swój głos, chciałbym udowodnić, że wywiązałem się ze wszystkich [obietnic, które złożyłem w kampanii wyborczej w 2014 r.](/assets/images/Ulotka2014znakwodny.jpg) W poprzedniej kampanii zaplanowałem sześć szczegółowych celów – wszystkie udało się zrealizować:
 1. Rozwój przedsiębiorczości i tworzenie nowych miejsc pracy
 2. Pozyskiwanie funduszy zewnętrznych (w tym europejskich) na rozwój infrastruktury technicznej, wsparcie lokalnych przedsięwzięć oraz organizacji społecznych
 3. Dbanie o bezpieczeństwo w szkołach i wysoki poziom kształcenia dzieci i młodzieży.
@@ -26,7 +26,7 @@ Od kilku lat opłacamy szczepienia osób starszych przeciwko grypie, co pozwala 
 Dużym osiągnięciem obecnej kadencji jest powołanie do życia Olsztyneckiego Budżetu Obywatelskiego. Wpisał sie on już w krajobraz funkcjonowania samorządności w naszym mieście. Teraz, gdy zostały już przetarte pierwsze szlaki można spokojnie myśleć nad planami jego rozwoju.
 ![OBO](/assets/images/logo_OBO.jpg)
 
-Dopełnieniem zrównoważonego rozwoju jest zwiększanie zasobów mieszkaniowych. W mijającej kadencji przygotowano wiele gruntów pod budownictwo mieszkaniowe oraz skutecznie zachęcono developerów. Dobrym przykładem jest rozpoczynająca się niebawem budowa [budynku mieszkalnego przy ul. Jana Pawła II](http://ekobud.ostroda.pl/portfolio-item/osiedle-w-olsztynku-przy-ulicy-jana-pawla-ii/), który na trzech piętrach będzie obejmował 70 mieszkań i 40 miejsc garażowych skomunikowanych windami. Przed budynkiem powstanie plac zabaw, ogólnodostępny parking i tereny zielone. 
+Dopełnieniem zrównoważonego rozwoju jest zwiększanie zasobów mieszkaniowych. W mijającej kadencji przygotowano wiele gruntów pod budownictwo mieszkaniowe oraz skutecznie zachęcono developerów. Dobrym przykładem jest rozpoczynająca się niebawem budowa [budynku mieszkalnego przy ul. Jana Pawła II](http://ekobud.ostroda.pl/portfolio-item/osiedle-w-olsztynku-przy-ulicy-jana-pawla-ii/), który na trzech piętrach będzie obejmował 70 mieszkań i 40 miejsc garażowych skomunikowanych windami. Przed budynkiem powstanie plac zabaw, ogólnodostępny parking i tereny zielone.
 
-Szanowni Państwo, gminy nabywają coraz większe uprawnienia w zakresie kształtowania środowiska życia swoich mieszkańców i często ważniejszym jest to, przed czym uda się obronić dane miejsce, niż to, co uda się zbudować. A zagrożeń jest wiele (wiatraki, stacje bazowe telefonii komórkowej, biogazownie, itp.). Dlatego zachęcam Państwa do udziału w wyborach i niepozostawianie decyzji o tym, kto będzie reprezentował nasze osiedle, innym lub przypadkowi. 
+Szanowni Państwo, gminy nabywają coraz większe uprawnienia w zakresie kształtowania środowiska życia swoich mieszkańców i często ważniejszym jest to, przed czym uda się obronić dane miejsce, niż to, co uda się zbudować. A zagrożeń jest wiele (wiatraki, stacje bazowe telefonii komórkowej, biogazownie, itp.). Dlatego zachęcam Państwa do udziału w wyborach i niepozostawianie decyzji o tym, kto będzie reprezentował nasze osiedle, innym lub przypadkowi.
 Jeżeli Państwo zagłosujecie na mnie, to dołożę wszelkich starań, aby nasze osiedle i nasza gmina były bezpiecznym i komfortowym miejscem do życia.
