@@ -4,7 +4,7 @@ email: rlewando@wp.pl
 description: >-
   Strona domowa Romana Lewandowskiego
 baseurl: "/"
-url: "http://romanlewandowski.pl" 
+url: "http://romanlewandowski.pl"
 
 title_separator: "|"
 site.locale: pl-PL
@@ -13,9 +13,9 @@ search: false
 
 # Build settings
 markdown: kramdown
-plugins:
+plugins: []
   # no plugins
-remote_theme: "mmistakes/minimal-mistakes"
+theme: minimal-mistakes-jekyll
 
 # Site Author
 author:
@@ -33,7 +33,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-        
+
 
 exclude:
   - Gemfile
