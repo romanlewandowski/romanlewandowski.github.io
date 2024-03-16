@@ -1,7 +1,7 @@
 ---
 title: Realizacja programu wyborczego w latach 2019-2023
 ---
-Zanim Państwo mi zaufacie i oddacie na mnie swój głos, chciałbym udowodnić, że wywiązałem się ze wszystkich [obietnic, które złożyłem w kampanii wyborczej w 2014 r.](/assets/images/Ulotka2014znakwodny.jpg) W poprzedniej kampanii zaplanowałem sześć szczegółowych celów – wszystkie udało się zrealizować:
+Test Zanim Państwo mi zaufacie i oddacie na mnie swój głos, chciałbym udowodnić, że wywiązałem się ze wszystkich [obietnic, które złożyłem w kampanii wyborczej w 2014 r.](/assets/images/Ulotka2014znakwodny.jpg) W poprzedniej kampanii zaplanowałem sześć szczegółowych celów – wszystkie udało się zrealizować:
 1. Rozwój przedsiębiorczości i tworzenie nowych miejsc pracy
 2. Pozyskiwanie funduszy zewnętrznych (w tym europejskich) na rozwój infrastruktury technicznej, wsparcie lokalnych przedsięwzięć oraz organizacji społecznych
 3. Dbanie o bezpieczeństwo w szkołach i wysoki poziom kształcenia dzieci i młodzieży.
