@@ -10,6 +10,7 @@ Okres ten był dla mnie czasem wytężonej pracy i wielu wyzwań. Starałem się
 
 Należy jednak podkreślić, że wybór realizowanych inwestycji w dużej mierze zależał od programów rządowych i unijnych, które alokowały dotacje tylko na określone działania. Oznacza to, że jako radny musiałem często podejmować decyzje w oparciu o dostępne programy rządowe i unijne, a nie preferencje związane z potrzebami naszego osiedla.
 Dlatego też w wielu sytuacjach realizowane były te inwestycje, które otrzymały największe zewnętrzne dofinansowanie. Przykładem może być plac zabaw przy ul. Akacjowej na który otrzymaliśmy 480 tys. dotacji z PFRON.
+![Plac Zabaw](/assets/images/Plac Zabaw Akacjowa.jpg)
 
 Mam nadzieję, że nowy rząd dotrzyma słowa, zmniejszy centralizację i przekaże znaczną pulę środków do dyspozycji samorządów, a to pozwoli w kolejnej kadencji na zwiększenie zakresu inwestycji na naszym osiedlu.
 
