@@ -18,7 +18,7 @@ Mam nadzieję, że nowy rząd dotrzyma słowa, zmniejszy centralizację i przeka
 
 Zanim przedstawię szczegółowe sprawozdanie z realizacji inwestycji z ostatniej kadencji, najpierw ogólnie opiszę nasze osiągnięcia w całej gminie.
 Od podstaw zorganizowaliśmy w gminie komunikację publiczną. Najpierw na trasie Olsztynek-Olsztyn (linia 129) (https://www.olsztyn.com.pl/mpk,linia-autobusowa,129,2024-03-21,0,76.html), a następnie w obrębie naszej gminy uruchomiliśmy dodatkowych 10 linii autobusowych (https://olsztynek.pl/gminna-komunikacja-publiczna/). Powołaliśmy Uniwersytet III wieku i Radę Seniorów. Zrealizowaliśmy szereg inwestycji obejmujących ulice, chodniki i drogi, place zabaw i sieci kanalizacyjne. Podnosimy sukcesywnie jakość wody pitnej poprzez modernizacje stacji uzdatniania wody. Inwestowaliśmy w oświatę modernizując budynki i rozwijając bazę sportową przy szkołach. Niebawem powstanie także nowa hala sportowa przy Zespole Szkół im. K.C. Mrongowiusza. Wspólnym wysiłkiem gminy Olsztynek i starostwa powiatowego w Olsztynie w ciągu 30 m-cy powstanie I etap inwestycji za kwotę 13,4 mln zł.
-![Hala 1](/assets/images/Centrum Sportu i Zdrowia)
+![Hala 1](/assets/images/Centrum Sportu i Zdrowia.jpg)
 
 
 
