@@ -8,29 +8,23 @@ Na najbliższą kadencję plany są jeszcze bardziej ambitne. Jako radny, będę
 
 Na naszym osiedlu przy ulicy Wilczej w nadchodzącej kadencji chciałbym:
 
-1.	Zwiększyć bezpieczeństwo ruchu.  Osiedle i Gmina intensywnie się rozbudowują, coraz trudniej jest wyjechać na ulicę Wilczą i dalej Olsztyńską. Dlatego też chciałbym doprowadzić do:
--	spowolnienia ruchu na ul. Wilczej i poprawy warunków wyjazdu z ul. Jaśminowej i z posesji budynków  przy ul. Wilczej 14 a i b,
--	realizacji opracowanego już projektu ronda na skrzyżowaniu ulic Wilczej, Behringa i Olsztyńskiej,
--	budowy wschodniej obwodnicy Olsztynka (Ameryka-Mierki), która skutecznie zmniejszy natężenie ruchu na ul. Olsztyńskiej, bowiem w kierunku Szczytna będzie można zjeżdżać bezpośrednio z drogi S51.
-2.	Poprawić infrastrukturę dla dzieci. Pozyskaliśmy fundusze z PFRON na budowę placu zabaw przy ul. Akacjowej. W najbliższej kadencji chciałbym przeprowadzić rewitalizację boiska i ogrodzenia.
-3.	Doprowadzić do wyremontowania nawierzchni ulic i chodników. Nasze osiedle ma już kilkadziesiąt lat i jego infrastruktura wymaga sukcesywnej modernizacji. W ostatniej kadencji przeprowadzono prace związane z instalacją światłowodowego internetu i remontem nawierzchni części chodników. W kolejnej kadencji trzeba odnowić nawierzchnię ulic i chodników na samym osiedlu, a także chodnika na cmentarz oraz ścieżki pieszo-rowerowej pomiędzy ulicami Sportową i Leśną.
+1.	**Zwiększyć bezpieczeństwo ruchu.**  Osiedle i Gmina intensywnie się rozbudowują, coraz trudniej jest wyjechać na ulicę Wilczą i dalej Olsztyńską. Dlatego też chciałbym doprowadzić do:
+-	**spowolnienia ruchu** na ul. Wilczej i poprawy warunków wyjazdu z ul. Jaśminowej i z posesji budynków  przy ul. Wilczej 14 a i b,
+-	realizacji opracowanego już projektu **ronda na skrzyżowaniu ulic Wilczej, Behringa i Olsztyńskiej**,
+-	**budowy wschodniej obwodnicy Olsztynka** (Ameryka-Mierki), która skutecznie zmniejszy natężenie ruchu na ul. Olsztyńskiej, bowiem w kierunku Szczytna będzie można zjeżdżać bezpośrednio z drogi S51.
+2.	**Poprawić infrastrukturę dla dzieci.** Pozyskaliśmy fundusze z PFRON na budowę placu zabaw przy ul. Akacjowej. W najbliższej kadencji chciałbym przeprowadzić rewitalizację boiska i ogrodzenia.
+3.	**Doprowadzić do wyremontowania nawierzchni ulic i chodników.** Nasze osiedle ma już kilkadziesiąt lat i jego infrastruktura wymaga sukcesywnej modernizacji. W ostatniej kadencji przeprowadzono prace związane z instalacją światłowodowego internetu i remontem nawierzchni części chodników. W kolejnej kadencji trzeba odnowić nawierzchnię ulic i chodników na samym osiedlu, a także chodnika na cmentarz oraz ścieżki pieszo-rowerowej pomiędzy ulicami Sportową i Leśną.
 
+Jako Wasz radny będę Waszym głosem w Radzie Miejskiej, pracując z pasją i zaangażowaniem, aby uczynić Olsztynek jeszcze lepszym miejscem do życia. Należy też pamiętać, że **często równie ważne jest to, przed czym obroni się dane miejsce jak to, co się zbuduje**. A zagrożeń jest wiele: wiatraki, stacje bazowe telefonii komórkowej, biogazownie, ogromne fermy i farmy fotowoltaiczne, itp. To wszystko są ważne i użyteczne inwestycje, ale nie mogą one zakłócać naszego spokoju i wpływać negatywnie na nasze zdrowie będąc lokowanymi blisko osiedli mieszkaniowych.
 
+Liczę na Wasz głos, ponieważ tylko razem możemy harmonijnie kształtować nasze otoczenie. W tym celu chciałbym wykorzystać swoje wykształcenie i doświadczenie.
 
-Mając dużą satysfakcję z [realizacji zobowiązań w kończącej się kadencji](/obietnicez2014.md), w nowej, tej nadchodzącej, oprócz spraw wymienionych w [programie komitetu wyborczego](http://www.gminazprzyszloscia.pl/program.html), chciałbym się zdecydowanie bardziej skoncentrować na problemach naszego osiedla. Od lat nie było tu żadnych inwestycji, dlatego uważam, że teraz czas na osiedle przy ul. Wilczej. Przede wszystkim chciałbym zabiegać o sukcesywną **wymianę chodników**, zaczynając od ul. Akacjowej, Lipowej, Kasztanowej, a także o **położenie nowej nawierzchni ulic**. Doinwestowania wymaga **boisko** na rogu ulic Akacjowej i Lipowej, należy tam wykonać estetyczne i funkcjonalne ogrodzenie, aby piłka nie wpadała do sąsiadujących ogródków, ale też trzeba lepiej zagospodarować **plac zabaw** i urządzić całą powierzchnię. Od lat remontu wymaga także **chodnik w kierunku cmentarza**. W pierwszej kolejności chciałbym zabiegać o poprawę **oświetlenia** (to w zasadzie jest już realizowane), następnie o wymianę ławek, aby starsze osoby mogły odpocząć po drodze i nawierzchni chodnika.
+Moje całe zawodowe życie jest związane z Gminą Olsztynek. W latach 1992-1995 pracowałem jako nauczyciel w Zespole Szkół w Olsztynku, następnie przez 4 lata byłem specjalistą ds. informatyki w firmie Central Soya Olsztynek (obecnie Nutripol). W 1999 roku podjąłem pracę w Wojewódzkim Szpitalu Rehabilitacyjnym dla Dzieci w Ameryce, najpierw na stanowisku zastępcy dyrektora, a od 2003 roku dyrektora Szpitala.
 
-Ponadto, tak jak do tej pory, chciałbym aktywnie działać na rzecz rozwoju całej gminy, przede wszystkim:
--	Zabiegać o nowych inwestorów i kolejne miejsca pracy, co powinno zwiększyć dochody gminy i podnieść płace.
--	Tworzyć warunki lepszego rozwoju lokalnego biznesu i większego zaangażowania społeczności w życie gminy.
--	Poprawić estetykę naszego miasta, w tym terenów zielonych.
--	Zwiększyć dostęp młodzieży do wartościowych form spędzania wolnego czasu poprzez zwiększenie zakresu działalności Domu Kultury.
--	Zmniejszyć koszty budżetu gminy poprzez inwestowanie m.in. w energooszczędne oświetlenie.
--	Chronić czystość otaczającego nas środowiska poprzez wspieranie programu dofinansowań do wymiany pieców na bardziej ekologiczne, jak i poprzez blokowanie budowy uciążliwego przemysłu.
--	Wypracować optymalny system odbioru nieczystości stałych.
+Od wielu lat angażuję się w działalność społeczną - byłem inicjatorem powołania do życia Stowarzyszenia Pomocy Dzieciom i Młodzieży z Problemami Zdrowotnymi “Nasza Ameryka”, funkcjonującego od 2006 roku. Jest to organizacja pożytku publicznego, która pomogła już setkom niepełnosprawnych dzieci i ich rodzinom. Ponadto, zaangażowałem się w działalność mającą na celu poszerzenie w Olsztynku oferty edukacyjnej dla młodzieży, co zaowocowało powstaniem w naszym mieście drugiego gimnazjum, a obecnie trzeciej szkoły podstawowej. Poza pracą w Szpitalu prowadzę badania naukowe związane z zarządzaniem organizacjami i pracuję jako nauczyciel akademicki na stanowisku profesora UWM na Wydziale Nauk Ekonomicznych.
 
-Należy pamiętać, że Rada Miejska jest ciałem kolegialnym i ścierają się tam interesy różnych okręgów wyborczych, a pieniędzy zawsze jest mało. Dlatego bardzo ważnym jest, aby osoba, która będzie reprezentowała nasze osiedle (ul.: Akacjowa, Kasztanowa, Klonowa, Lipowa, Sportowa, Świerkowa, Wilcza) miała nie tylko **wiedzę i doświadczenie w prowadzeniu inwestycji** oraz **znajomość zasad funkcjonowaniu sektora publicznego**, ale także **_odpowiednią siłę przebicia._** Oprócz **wieloletniego doświadczenia w pozyskiwaniu funduszy zewnętrznych, prowadzeniu inwestycji, kierowaniu dużą organizacją publiczną i projektami międzynarodowymi**, w obecnej kadencji zdobyłem także duże **doświadczenie w pracy samorządowej**, pełniąc przez ostatnie cztery lata funkcję przewodniczącego Komisji Gospodarki i Budżetu, co moim zdaniem przełoży się na jeszcze większą skuteczność mojego działania – jeżeli obdarzycie mnie Państwo swoim zaufaniem.
+dr hab. inż. Roman Lewandowski, prof UWM
 
-Gminy nabywają coraz większych uprawnień w zakresie kształtowania środowiska życia swoich mieszkańców i często równie ważnym jest to, co uda się zbudować, jak i to, przed czym uda się obronić dane miejsce. A zagrożeń jest wiele (wiatraki, stacje bazowe telefonii komórkowej, biogazownie, itp.). Dlatego zachęcam Państwa do udziału w wyborach i niepozostawiania decyzji o tym, kto będzie reprezentował nasze osiedle, innym lub przypadkowi.
 
 **Jeżeli Państwo zagłosujecie na mnie, to dołożę wszelkich starań, aby nasze osiedle i nasza gmina były bezpiecznym i komfortowym miejscem do życia.**
 
