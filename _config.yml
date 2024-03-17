@@ -21,11 +21,11 @@ theme: minimal-mistakes-jekyll
 author:
   avatar           : "/assets/images/roman-lewandowski2023.jpg"
   bio              : "55 lat, żona Danusia, 3 synów,
-od 32 lat związany z Gminą Olsztynek,
-dyrektor Szpitala w Ameryce, profesor UWM,
-radny, przewodniczący Komisji
+<br> od 32 lat związany z Gminą Olsztynek,
+<br> dyrektor Szpitala w Ameryce, <br> profesor UWM,
+<br> radny, przewodniczący Komisji
 Gospodarki i Budżetu,
-bezpartyjny
+<br> bezpartyjny
 <br /><br /> <a href=\"/obietnicez2014\">Program z poprzedniej kampanii wyborczej został zrealizowany</a>"
   email            : rlewando@wp.pl
   facebook         : https://www.facebook.com/roman.lewandowski.906/
