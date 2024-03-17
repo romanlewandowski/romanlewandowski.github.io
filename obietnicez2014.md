@@ -9,13 +9,21 @@ Poniżej przedstawiam podsumowanie działań i inwestycji zrealizowanych w mijaj
 Okres ten był dla mnie czasem wytężonej pracy i wielu wyzwań. Starałem się jak najlepiej wykorzystać dostępne środki i możliwości, aby realizować ważne dla mieszkańców inwestycje i przedsięwzięcia.
 
 Należy jednak podkreślić, że wybór realizowanych inwestycji w dużej mierze zależał od programów rządowych i unijnych, które alokowały dotacje tylko na określone działania. Oznacza to, że jako radny musiałem często podejmować decyzje w oparciu o dostępne programy rządowe i unijne, a nie preferencje związane z potrzebami naszego osiedla.
-Dlatego też w wielu sytuacjach realizowane były te inwestycje, które otrzymały największe zewnętrzne dofinansowanie. Przykładem może być plac zabaw przy ul. Akacjowej i Lipowej, na który otrzymaliśmy 480 tys. dotacji z PFRON. Jest już przygotowany projekt i w tym roku będzie realizowany. Pozstanie jeszcze boisko i ogrodzenie od ul. Akacjowej.
+Dlatego też w wielu sytuacjach realizowane były te inwestycje, które otrzymały największe zewnętrzne dofinansowanie. Przykładem może być plac zabaw przy ul. Akacjowej i Lipowej, na który otrzymaliśmy 480 tys. dotacji z PFRON.
 ![Plac Zabaw](/assets/images/Plac Zabaw Akacjowa.jpg)
+
+**Dlatego na niektóre inwestycje trzeba poczekać do czasu ogłoszenia odpowiedniego konkursu i pozyskania części funduszy z zewnęytrznych źródeł.**
 
 Mam nadzieję, że nowy rząd dotrzyma słowa, zmniejszy centralizację i przekaże znaczną pulę środków do dyspozycji samorządów, a to pozwoli w kolejnej kadencji na zwiększenie zakresu inwestycji na naszym osiedlu.
 
 Zanim przedstawię szczegółowe sprawozdanie z realizacji inwestycji z ostatniej kadencji, najpierw ogólnie opiszę nasze osiągnięcia w całej gminie.
-Od podstaw zorganizowaliśmy w gminie komunikację publiczną. Najpierw na trasie Olsztynek-Olsztyn (linia 129) (https://www.olsztyn.com.pl/mpk,linia-autobusowa,129,2024-03-21,0,76.html), a następnie w obrębie naszej gminy uruchomiliśmy dodatkowych 10 linii autobusowych (https://olsztynek.pl/gminna-komunikacja-publiczna/). Powołaliśmy Uniwersytet III wieku i Radę Seniorów. Zrealizowaliśmy szereg inwestycji obejmujących ulice, chodniki i drogi, place zabaw i sieci kanalizacyjne. Podnosimy sukcesywnie jakość wody pitnej poprzez modernizacje stacji uzdatniania wody. Inwestowaliśmy w oświatę modernizując budynki i rozwijając bazę sportową przy szkołach. Niebawem powstanie także nowa hala sportowa przy Zespole Szkół im. K.C. Mrongowiusza. Finalizujemy uzgodnienia związane ze ścieżką pieszo-rowerową z Olsztynka do Swaderek. Zwiększyliśmy liczbę miejsc dla dzieci w Żłobku Miejskim. Wdrażamy także nowoczesne technologie wspierając usługi publiczne w gminie, dzięki czemu nie wychodząc z domu możemy załatwiać swoje sprawy.
+Od podstaw zorganizowaliśmy w gminie komunikację publiczną. Najpierw na trasie Olsztynek-Olsztyn (linia 129) (https://www.olsztyn.com.pl/mpk,linia-autobusowa,129,2024-03-21,0,76.html), a następnie w obrębie naszej gminy uruchomiliśmy dodatkowych 10 linii autobusowych (https://olsztynek.pl/gminna-komunikacja-publiczna/). Powołaliśmy Uniwersytet III wieku i Radę Seniorów. Zrealizowaliśmy szereg inwestycji obejmujących ulice, chodniki i drogi, place zabaw i sieci kanalizacyjne. Podnosimy sukcesywnie jakość wody pitnej poprzez modernizacje stacji uzdatniania wody. Inwestowaliśmy w oświatę modernizując budynki i rozwijając bazę sportową przy szkołach. Niebawem powstanie także nowa hala sportowa przy Zespole Szkół im. K.C. Mrongowiusza. Wspólnym wysiłkiem gminy Olsztynek i starostwa powiatowego w Olsztynie w ciągu 30 m-cy powstanie I etap inwestycji za kwotę 13,4 mln zł.
+![Hala 1](/assets/images/Centrum Sportu i Zdrowia)
+
+
+
+
+Finalizujemy uzgodnienia związane ze ścieżką pieszo-rowerową z Olsztynka do Swaderek. Zwiększyliśmy liczbę miejsc dla dzieci w Żłobku Miejskim. Wdrażamy także nowoczesne technologie wspierając usługi publiczne w gminie, dzięki czemu nie wychodząc z domu możemy załatwiać swoje sprawy.
 
 **Zapraszam do zapoznania się ze szczegółowymi danymi.**
 
