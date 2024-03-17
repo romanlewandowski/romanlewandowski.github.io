@@ -31,11 +31,8 @@ Minister Nauki i Szkolnictwa Wyższego delegował mnie do komitetu zarządzając
 
 Poza pracą w Szpitalu w Ameryce pracuję na stanowisku proferora Uniwersytetu Warmińsko-Mazurskiego na wydziale Nauk Ekonomicznych w Instytucie Nauk o Zarządzaniu i Jakości. Wcześniej prowadziłem także zajęcia na Uniwersytecie Gdańskim na studiach podyplomowych dla menedżerów ochrony zdrowia oraz w Społecznej Akademii Nauk (SAN) w Łodzi na kierunku Zdrowie Publiczne oraz w Olsztyńskiej Szkole Wyższej Informatyki i Zarządzania im. Profesora Tadeusza Kotarbińskiego oraz w formie e-learningowej. [Część wykładów można obejrzeć w YouTube](https://www.youtube.com/user/romanlewandowski/videos).
 
+W 2012 zostałem uhonorowany Odznaką „Zasłużony dla Uniwersytetu Warmińsko-Mazurskiego w Olsztynie", w 2016 otrzymałem Nagrodę Rektora Społecznej Akademii Nauk Indywidualną I stopnia, a w 2023 Nagrodę Rektora Uniwersytetu Warmińsko-Mazurskiego II stopnia za osiągnięcia naukowe. W 2024 Polska Akademia Nauk, Oddziału w Olsztynie i w Białymstoku przyznał mi wyróżnienie za monografię pt. „Kontrola menedżerska i jej wpływ na wyniki szpitali publicznych. Ujęcie modelowe”.
 
-W 2012 zostałem uhonorowany Odznaką „Zasłużony dla Uniwersytetu Warmińsko-Mazurskiego w Olsztynie", a w 2016 otrzymałem Nagrodę Rektora Społecznej Akademii Nauk Indywidualną I stopnia za osiągnięcia naukowe.
-
-
-
-Aktywnie włączam się także w usprawnianie systemu ochrony zdrowia w Polsce. Od wielu lat  działam na rzecz rehabilitacji osób niepełnosprawnych zakładając w 2009 roku Ogólnopolski Związek Pracodawców Rehabilitacji Dziecięcej. Pełniąc funkcję prezesa tego związku wielokrotnie aktywnie uczestniczyłem w tworzeniu i opiniowaniu aktów prawnych dotyczących organizacji i finansowania rehabilitacji w naszym kraju.
+Aktywnie włączam się także w usprawnianie systemu ochrony zdrowia w Polsce. Od wielu lat działam na rzecz rehabilitacji osób niepełnosprawnych zakładając w 2009 roku Ogólnopolski Związek Pracodawców Rehabilitacji Dziecięcej. Pełniąc funkcję prezesa tego związku wielokrotnie aktywnie uczestniczyłem w tworzeniu i opiniowaniu aktów prawnych dotyczących organizacji i finansowania rehabilitacji w naszym kraju.
 
 Współpracuję w tym zakresie z [Agencją Oceny Technologii Medycznych i Taryfikacji](http://www.aotm.gov.pl/www/). Jestem również członkiem Rady Naczelnej Polskiej Federacji Szpitali oraz Warmińsko – Mazurskiego Związku Pracodawców  Szpitali  Specjalistycznych.
