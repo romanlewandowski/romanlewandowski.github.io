@@ -2,7 +2,7 @@
 title: Realizacja programu wyborczego w latach 2019-2023
 ---
 
-**Szanowni Państwo**
+**Szanowni Państwo!**
 
 Poniżej przedstawiam podsumowanie działań i inwestycji zrealizowanych w mijającej kadencji Rady Miejskiej.
 
