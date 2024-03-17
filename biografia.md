@@ -12,11 +12,11 @@ Od wielu lat angażuję się w działalność społeczną - byłem inicjatorem p
 
 Ponadto w 2008 roku zaangażowałem się w działalność  mającą na celu  poszerzenie w Olsztynku oferty edukacyjnej dla młodzieży, co zaowocowało  powstaniem w naszym mieście drugiego gimnazjum - pod egidą Stowarzyszenia Przyjaciół Szkół Katolickich. Udało się w ten sposób stworzyć niepubliczną i zarazem bezpłatną dla uczniów placówkę, która wspiera rodziców w wychowaniu ich dzieci. Obecnie placówka ta uzupełnia olsztynecką ofertę edukacyjną na poziomie szkoły podstawowej.
 
-Jako radny obecnej kadencji działałem na rzecz zrównoważonego rozwoju naszej gminy, w pięciu zasadniczych obszarach: bezpieczeństwo, rozwój gospodarczy i mieszkalnictwo, usługi edukacyjno-wychowawcze, kultura i aktywne spędzanie wolnego czasu, usługi komunalne oraz infrastruktura.
+Jako radny poprzednich kadencji działałem na rzecz zrównoważonego rozwoju naszej gminy, w pięciu zasadniczych obszarach: bezpieczeństwo, rozwój gospodarczy i mieszkalnictwo, usługi edukacyjno-wychowawcze, kultura i aktywne spędzanie wolnego czasu, usługi komunalne oraz infrastruktura.
 
-Bezpieczeństwo, to nie tylko niski poziom przestępczości, ale to przede wszystkim czyste środowisko. Dlatego stanowczo sprzeciwiałem się budowie fermy kurzej w Platynach. Byłaby ona uciążliwa nie tylko dla mieszkańców Platyn, ale również Olsztynka.
+Bezpieczeństwo, to nie tylko niski poziom przestępczości, ale to również czyste środowisko oraz bezpieczeństwo na drogach i ulicach. Dlatego stanowczo sprzeciwiałem się budowie fermy kurzej w Platynach. Byłaby ona uciążliwa nie tylko dla mieszkańców Platyn, ale również Olsztynka.
 
-Zrównoważony rozwój to zapewnienie miejsc w żłobku, dostępu do usług komunalnych oraz usług z zakresu kultury, sportu i rekreacji. To także zwiększenie zasobów mieszkaniowych oraz inwestycje w infrastrukturę drogową. [Więcej o mojej pracy w Radzie Miejskiej ...](/obietnicez2014.md)
+Zrównoważony rozwój to zapewnienie miejsc w żłobku, dostępu do usług komunalnych, w tym transportu publicznego oraz usług z zakresu kultury, sportu i rekreacji. To także zwiększenie zasobów mieszkaniowych oraz inwestycje w infrastrukturę drogową. [Więcej o mojej pracy w Radzie Miejskiej ...](/obietnicez2014.md)
 
 ## Pozostałe aktywności
 Poza pracą w Szpitalu prowadzę badania naukowe, [opublikowałem kilkadziesiąt prac w zakresie zarządzania w ochronie zdrowia w polskich i zagranicznych czasopismach naukowych](https://ameryka.academia.edu/RomanLewandowski). Biorę też udział w projektach badawczych, zarówno na poziomie krajowym jak i w tych wielonarodowych na poziomie europejskim. Między innymi byłem kierownikiem projektu pt. „Model, typologia i metody pomiaru systemów kontroli w publicznych szpitalach” realizowanego w ramach Narodowego Centrum Nauki.
