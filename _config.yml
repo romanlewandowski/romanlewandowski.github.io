@@ -19,11 +19,11 @@ theme: minimal-mistakes-jekyll
 
 # Site Author
 author:
-  avatar           : "/assets/images/roman-lewandowski.jpg"
+  avatar           : "/assets/images/roman-lewandowski2023.jpg"
   bio              : "Bezpartyjny kandydat do Rady Miasta Olsztynka. Okręg nr 2<br /><br /> <a href=\"/obietnicez2014\">Program z poprzedniej kampanii wyborczej został zrealizowany</a>"
   email            : rlewando@wp.pl
-  facebook         : roman.lewandowski.906
-  linkedin         : roman-lewandowski-6693a7b3
+  facebook         : https://www.facebook.com/roman.lewandowski.906/
+  linkedin         : https://www.linkedin.com/in/roman-a-lewandowski-6693a7b3/
   youtube          : https://www.youtube.com/user/romanlewandowski/videos
 
 ## Front matter defaults
