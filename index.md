@@ -9,9 +9,9 @@ Na najbliższą kadencję plany są jeszcze bardziej ambitne. Jako radny, będę
 Na naszym osiedlu przy ulicy Wilczej w nadchodzącej kadencji chciałbym:
 
 1.	Zwiększyć bezpieczeństwo ruchu.  Osiedle i Gmina intensywnie się rozbudowują, coraz trudniej jest wyjechać na ulicę Wilczą i dalej Olsztyńską. Dlatego też chciałbym doprowadzić do:
-  a.	spowolnienia ruchu na ul. Wilczej i poprawy warunków wyjazdu z ul. Jaśminowej i z posesji budynków  przy ul. Wilczej 14 a i b,
-  b.	realizacji opracowanego już projektu ronda na skrzyżowaniu ulic Wilczej, Behringa i Olsztyńskiej,
-  c.	budowy wschodniej obwodnicy Olsztynka (Ameryka-Mierki), która skutecznie zmniejszy natężenie ruchu na ul. Olsztyńskiej, bowiem w kierunku Szczytna będzie można zjeżdżać bezpośrednio z drogi S51.
+-	spowolnienia ruchu na ul. Wilczej i poprawy warunków wyjazdu z ul. Jaśminowej i z posesji budynków  przy ul. Wilczej 14 a i b,
+-	realizacji opracowanego już projektu ronda na skrzyżowaniu ulic Wilczej, Behringa i Olsztyńskiej,
+-	budowy wschodniej obwodnicy Olsztynka (Ameryka-Mierki), która skutecznie zmniejszy natężenie ruchu na ul. Olsztyńskiej, bowiem w kierunku Szczytna będzie można zjeżdżać bezpośrednio z drogi S51.
 2.	Poprawić infrastrukturę dla dzieci. Pozyskaliśmy fundusze z PFRON na budowę placu zabaw przy ul. Akacjowej. W najbliższej kadencji chciałbym przeprowadzić rewitalizację boiska i ogrodzenia.
 3.	Doprowadzić do wyremontowania nawierzchni ulic i chodników. Nasze osiedle ma już kilkadziesiąt lat i jego infrastruktura wymaga sukcesywnej modernizacji. W ostatniej kadencji przeprowadzono prace związane z instalacją światłowodowego internetu i remontem nawierzchni części chodników. W kolejnej kadencji trzeba odnowić nawierzchnię ulic i chodników na samym osiedlu, a także chodnika na cmentarz oraz ścieżki pieszo-rowerowej pomiędzy ulicami Sportową i Leśną.
 
