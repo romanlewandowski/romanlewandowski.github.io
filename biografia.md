@@ -8,6 +8,10 @@ Całe moje zawodowe życie jest związane z gminą Olsztynek. W latach 1992-1995
 ![Szpital Front](/assets/images/Szpital_front.jpg)
 ![Szpital Front](/assets/images/Szpital_bok.jpg)
 
+Szpital jest realizatorem strategicznego projektu pn.: „SYGNAŁ PIERWSZY – SYGNAŁ OSTATNI” Budowa „Północnego Centrum Psychiatrii Dziecięcej” o wartości ok. 150 mln zł. Docelowo, będzie to najnowocześniejsza i największa w Polsce placówka zapewniająca stacjonarną dzienną i środowiskową opiekę psychiatryczną dla dzieci i młodzieży do 18 roku życia. W Centrum będą się znajdowały profilowane oddziały psychiatryczne, takie jak oddział nerwic młodzieżowych i oddział zaburzeń odżywiania, zajmujący się takimi schorzeniami jak anoreksja i bulimia. W Centrum znajdzie się także hostel, w którym młodzież z zaburzeniami psychicznymi niewymagająca leczenia szpitalnego będzie mogła przebywać nawet do 10 miesięcy. Dla tych osób będą prowadzone profilowane programy psychoterapeutyczne rehabilitacyjne w celu poprawy codziennego funkcjonowania oraz przywrócenia podstawowych umiejętności społecznych.
+
+![Szpital Front](/assets/images/Centrum Psych.jpg)
+
 Od wielu lat angażuję się w działalność społeczną - byłem inicjatorem powołania do życia Stowarzyszenia Pomocy Dzieciom i Młodzieży z Problemami Zdrowotnymi “Nasza Ameryka”, które funkcjonuje od 2006 roku. Jest to organizacja pożytku publicznego i jako taka pomogła dotychczas setkom niepełnosprawnych osób oraz ich rodzinom.
 
 Ponadto w 2008 roku zaangażowałem się w działalność  mającą na celu  poszerzenie w Olsztynku oferty edukacyjnej dla młodzieży, co zaowocowało  powstaniem w naszym mieście drugiego gimnazjum - pod egidą Stowarzyszenia Przyjaciół Szkół Katolickich. Udało się w ten sposób stworzyć niepubliczną i zarazem bezpłatną dla uczniów placówkę, która wspiera rodziców w wychowaniu ich dzieci. Obecnie placówka ta uzupełnia olsztynecką ofertę edukacyjną na poziomie szkoły podstawowej.
