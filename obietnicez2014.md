@@ -1,5 +1,5 @@
 ---
-title: Realizacja programu wyborczego w latach 2019-2023
+title: Realizacja programu wyborczego w latach 2019-2023/24
 ---
 
 **Szanowni Państwo!**
