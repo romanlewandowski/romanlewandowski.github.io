@@ -17,12 +17,6 @@ Na naszym osiedlu przy ulicy Wilczej w nadchodzącej kadencji chciałbym:
 
 Jako Wasz radny będę Waszym głosem w Radzie Miejskiej, pracując z pasją i zaangażowaniem, aby uczynić Olsztynek jeszcze lepszym miejscem do życia. Należy też pamiętać, że **często równie ważne jest to, przed czym obroni się dane miejsce jak to, co się zbuduje**. A zagrożeń jest wiele: wiatraki, stacje bazowe telefonii komórkowej, biogazownie, ogromne fermy i farmy fotowoltaiczne, itp. To wszystko są ważne i użyteczne inwestycje, ale nie mogą one zakłócać naszego spokoju i wpływać negatywnie na nasze zdrowie będąc lokowanymi blisko osiedli mieszkaniowych.
 
-Liczę na Wasz głos, ponieważ tylko razem możemy harmonijnie kształtować nasze otoczenie. W tym celu chciałbym wykorzystać swoje wykształcenie i doświadczenie.
-
-Moje całe zawodowe życie jest związane z Gminą Olsztynek. W latach 1992-1995 pracowałem jako nauczyciel w Zespole Szkół w Olsztynku, następnie przez 4 lata byłem specjalistą ds. informatyki w firmie Central Soya Olsztynek (obecnie Nutripol). W 1999 roku podjąłem pracę w Wojewódzkim Szpitalu Rehabilitacyjnym dla Dzieci w Ameryce, najpierw na stanowisku zastępcy dyrektora, a od 2003 roku dyrektora Szpitala.
-
-Od wielu lat angażuję się w działalność społeczną - byłem inicjatorem powołania do życia Stowarzyszenia Pomocy Dzieciom i Młodzieży z Problemami Zdrowotnymi “Nasza Ameryka”, funkcjonującego od 2006 roku. Jest to organizacja pożytku publicznego, która pomogła już setkom niepełnosprawnych dzieci i ich rodzinom. Ponadto, zaangażowałem się w działalność mającą na celu poszerzenie w Olsztynku oferty edukacyjnej dla młodzieży, co zaowocowało powstaniem w naszym mieście drugiego gimnazjum, a obecnie trzeciej szkoły podstawowej. Poza pracą w Szpitalu prowadzę badania naukowe związane z zarządzaniem organizacjami i pracuję jako nauczyciel akademicki na stanowisku profesora UWM na Wydziale Nauk Ekonomicznych.
-
 
 **Jeżeli Państwo zagłosujecie na mnie, to dołożę wszelkich starań, aby nasze osiedle i nasza gmina były bezpiecznym i komfortowym miejscem do życia.**
 
