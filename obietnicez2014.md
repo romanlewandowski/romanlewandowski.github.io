@@ -26,8 +26,6 @@ Od podstaw zorganizowaliśmy w gminie komunikację publiczną. Najpierw na trasi
 ![Hala 1](/assets/images/Centrum Sportu i Zdrowia.jpg)
 
 
-
-
 Finalizujemy uzgodnienia związane ze ścieżką pieszo-rowerową z Olsztynka do Swaderek. Zwiększyliśmy liczbę miejsc dla dzieci w Żłobku Miejskim. Wdrażamy także nowoczesne technologie wspierając [elektroniczne usługi publiczne w gminie](https://www.gko.com.pl/strefa-klienta/zdalne-odczyty-instrukcja-zalozenia-internetowego-konta-e-bok), dzięki czemu nie wychodząc z domu możemy załatwiać swoje sprawy.
 
 **Zapraszam do zapoznania się ze szczegółowymi danymi.**
