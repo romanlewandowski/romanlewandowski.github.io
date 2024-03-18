@@ -23,9 +23,10 @@ Moje całe zawodowe życie jest związane z Gminą Olsztynek. W latach 1992-1995
 
 Od wielu lat angażuję się w działalność społeczną - byłem inicjatorem powołania do życia Stowarzyszenia Pomocy Dzieciom i Młodzieży z Problemami Zdrowotnymi “Nasza Ameryka”, funkcjonującego od 2006 roku. Jest to organizacja pożytku publicznego, która pomogła już setkom niepełnosprawnych dzieci i ich rodzinom. Ponadto, zaangażowałem się w działalność mającą na celu poszerzenie w Olsztynku oferty edukacyjnej dla młodzieży, co zaowocowało powstaniem w naszym mieście drugiego gimnazjum, a obecnie trzeciej szkoły podstawowej. Poza pracą w Szpitalu prowadzę badania naukowe związane z zarządzaniem organizacjami i pracuję jako nauczyciel akademicki na stanowisku profesora UWM na Wydziale Nauk Ekonomicznych.
 
-Roman Lewandowski
-
 
 **Jeżeli Państwo zagłosujecie na mnie, to dołożę wszelkich starań, aby nasze osiedle i nasza gmina były bezpiecznym i komfortowym miejscem do życia.**
 
+Roman Lewandowski
+
+![Szpital Front](/assets/images/Foto Osiedle.jpg)
 
