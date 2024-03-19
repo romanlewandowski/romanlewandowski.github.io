@@ -24,3 +24,8 @@ Roman Lewandowski
 
 ![Szpital Front](/assets/images/Foto Osiedle.jpg)
 
+<style>
+  .sidebar {
+    display: block !important;
+  }
+</style>
