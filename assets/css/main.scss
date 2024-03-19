@@ -1,7 +1,4 @@
----
-# Only the main Sass file needs front matter (the dashes are enough)
----
-@charset "utf-8";
+--- # Only the main Sass file needs front matter (the dashes are enough) --- @charset "utf-8";
 
 
 
@@ -10,7 +7,7 @@
 // $masthead-link-color: white;
 
 // disable animations:
-$intro-transition  : none;
+$intro-transition : none;
 $global-transition : none;
 
 
@@ -34,6 +31,7 @@ $global-transition : none;
     a {
         color: white;
     }
+
     a:hover {
         color: white !important;
     }
@@ -64,7 +62,7 @@ $global-transition : none;
     border-radius: 0 !important;
     padding: 0 !important;
     max-width: inherit !important;
-    border: 0 !important; 
+    border: 0 !important;
 }
 
 .sidebar:hover {
@@ -80,9 +78,9 @@ $global-transition : none;
 article img {
     border: 1px solid #aaa;
     box-sizing: border-box;
-    -webkit-box-shadow: 2px 2px 8px 2px rgba(0,0,0,0.2);
-    -moz-box-shadow: 2px 2px 8px 2px rgba(0,0,0,0.2);
-    box-shadow: 2px 2px 8px 2px rgba(0,0,0,0.2);
+    -webkit-box-shadow: 2px 2px 8px 2px rgba(0, 0, 0, 0.2);
+    -moz-box-shadow: 2px 2px 8px 2px rgba(0, 0, 0, 0.2);
+    box-shadow: 2px 2px 8px 2px rgba(0, 0, 0, 0.2);
 }
 
 .greedy-nav .visible-links a:before {
@@ -95,6 +93,10 @@ article img {
 
 .author__bio a:visited {
     color: #7dc2d6;
+}
+
+.author__bio li {
+    padding-inline-start: 25px;
 }
 
 .author__avatar {
