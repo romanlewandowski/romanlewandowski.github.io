@@ -63,13 +63,6 @@ $right-sidebar-width-wide: 400px !default;
     color: white !important;
 }
 
-.author__avatar img {
-    border-radius: 0 !important;
-    padding: 0 !important;
-    max-width: inherit !important;
-    border: 0 !important;
-}
-
 .sidebar:hover {
     opacity: 1 !important;
 }
@@ -92,26 +85,98 @@ article img {
     background: rgba(255, 255, 255, 0.15);
 }
 
-.author__bio a {
-    color: #52adc8;
-}
-
-.author__bio a:visited {
-    color: #7dc2d6;
-}
-
-.author__bio ul {
-    padding-inline-start: 25px;
-}
-
 .author__avatar {
-    width: 120px;
-    height: 120px;
-}
+    width: 100%;
+    height: auto;
+    display: block;
 
-@media (min-width: 64em) {
-    .author__avatar {
-        width: auto;
-        height: auto;
+    img {
+        display: block;
+        border-radius: 50%;
+        padding: 0 !important;
+        max-width: 55% !important;
+        border: 0 !important;
+        margin: 0 auto;
+        margin-bottom: 1em;
+
+        @include breakpoint($small) {
+            border-radius: 0 !important;
+        }
     }
 }
+
+.author__bio {
+    a {
+        color: #52adc8;
+        text-decoration: underline;
+        @include breakpoint($small) {
+            text-decoration: none;
+        }
+    }
+
+    a:visited {
+        color: #7dc2d6;
+    }
+
+    a:hover {
+        text-decoration: none;
+        @include breakpoint($small) {
+            text-decoration: underline;
+        }
+    }
+
+    ul {
+        padding-inline-start: 25px;
+    }
+}
+
+.author__urls-wrapper {
+    display: block;
+    padding-top: 1em;
+    padding-left: 15px;
+    padding-right: 25px;
+    @include breakpoint($small) {
+        padding-top: 0;
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    button {
+        display: none;
+    }
+
+    .author__urls {
+        display: block;
+        position: relative;
+        margin: 0;
+        padding: 0;
+        border: 0;
+        background: transparent;
+        box-shadow: none;
+
+        li {
+            display: inline-block;
+            padding-right: 1em;
+
+            @include breakpoint($small) {
+                padding-right: 0;
+                display: block;
+            }
+
+        }
+
+        &:before {
+            display: none;
+        }
+        &:after {
+            display: none;
+        }
+    }
+}
+
+// @media (min-width: 64em) {
+//     .author__avatar {
+//         width: auto;
+//         height: auto;
+//     }
+// }
