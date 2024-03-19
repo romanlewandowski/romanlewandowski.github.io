@@ -41,6 +41,12 @@
     "diffEditor.ignoreTrimWhitespace": false,
     "editor.codeActionsOnSave": {
       "source.fixAll.eslint": "explicit"
+    },
+    "[scss]": {
+      "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "never"
+      },
+      "editor.formatOnSave": false,
     }
   },
 }
