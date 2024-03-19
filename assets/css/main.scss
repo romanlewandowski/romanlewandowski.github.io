@@ -12,7 +12,9 @@
 // disable animations:
 $intro-transition : none;
 $global-transition : none;
-
+$right-sidebar-width-narrow: 260px !default;
+$right-sidebar-width: 300px !default;
+$right-sidebar-width-wide: 400px !default;
 
 
 /** MINIMAL MISTAKES IMPORTS **/
@@ -98,7 +100,7 @@ article img {
     color: #7dc2d6;
 }
 
-.author__bio li {
+.author__bio ul {
     padding-inline-start: 25px;
 }
 
