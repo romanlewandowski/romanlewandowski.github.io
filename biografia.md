@@ -8,7 +8,7 @@ Całe moje zawodowe życie jest związane z gminą Olsztynek. W latach 1992-1995
 ![Szpital Front](/assets/images/Szpital_front.jpg)
 ![Szpital Front](/assets/images/Szpital_bok.jpg)
 
-W bieżącym roku Szpital odda do użytkowania 46 sal chorych z łazienkami dla opiekunów z małymi dziećmi oraz nowe zaplecze rehabilitacyjne wyposażone w nowoczesną aparaturę o łącznej powierzchni ponad 3200 mkw. Pozwoli to zdecydowanie podnieść jakość zabiegów fizjoterapeutycznych i pobytu pacjentów i ich opiekunów.. W kolejnym etapie zostanie wyburzony drewniany pawilon i w jego miejsce zostaną zbudowane 2 dolne kondygnacje przeznaczone na Oddział Alergologiczny, pomieszczenia szkolne i pobytu dziennego dla pacjentów rehabilitacyjnych.
+W bieżącym roku Szpital odda do użytkowania 46 sal chorych z łazienkami dla opiekunów z małymi dziećmi oraz nowe zaplecze rehabilitacyjne wyposażone w nowoczesną aparaturę o łącznej powierzchni ponad 3200 mkw. Pozwoli to zdecydowanie podnieść jakość zabiegów fizjoterapeutycznych i pobytu pacjentów i ich opiekunów. W kolejnym etapie zostanie wyburzony drewniany pawilon i w jego miejsce zostaną zbudowane dwie dolne kondygnacje przeznaczone na Oddział Alergologiczny, pomieszczenia szkolne i Pobytu Dziennego dla pacjentów rehabilitacyjnych.
 
 ![Nadbudowa](/assets/images/Nadbudowa Paw.jpg)
 
