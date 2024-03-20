@@ -3,7 +3,7 @@ title: Szanowni Państwo,
 ---
 ## Mieszkańcy ulic: Akacjowej, Jaśminowej, Kasztanowej, Klonowej, Lipowej, Sportowej, Świerkowej i Wilczej.
 Zbliżają się wybory samorządowe, ważny moment, w którym możemy razem kształtować przyszłość miasta i gminy. . Olsztynek to nasz dom i miejsce, w którym wspólnie budujemy dobrobyt naszych rodzin. Dzięki własnemu zaangażowaniu, możemy stworzyć lepszą przyszłość dla nas, naszych dzieci i wnuków,  dlatego też kolejny raz zdecydowałem się na kandydowanie do Rady Miejskiej.
-O tym, co udało się zrealizować w ciągu ostatnich 5 lat, możecie Państwo przeczytać **[tutaj](/obietnicez2014).**
+**[O tym, co udało się zrealizować w ciągu ostatnich 5 lat, możecie Państwo przeczytać tutaj](/obietnicez2014).**
 Na najbliższą kadencję plany są jeszcze bardziej ambitne. Jako radny, będę nadal zabiegał o rozwój gospodarczy naszej Gminy, większą dostępność do usług zdrowotnych i kulturalnych dla dzieci i dorosłych, a także o poprawę jakości szkolnictwa oraz warunków do rekreacji pieszej i rowerowej.
 
 Na naszym osiedlu przy ulicy Wilczej w nadchodzącej kadencji chciałbym:
