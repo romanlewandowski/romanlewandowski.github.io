@@ -16,7 +16,7 @@ Szpital jest realizatorem strategicznego projektu pn.: „SYGNAŁ PIERWSZY – S
 
 ![Szpital Front](/assets/images/Centrum Psych.jpg)
 
-Więcej informacji na temat centrum można znaleźć w materiale filmowym [Film](https://youtu.be/13dVpT4Jjg8?si=Jg62ieHQnUmzXvKm)
+[Więcej informacji na temat Centrum Psychiatrii można znaleźć w materiale filmowym](https://youtu.be/13dVpT4Jjg8?si=Jg62ieHQnUmzXvKm)
 
 Od wielu lat angażuję się w działalność społeczną - byłem inicjatorem powołania do życia Stowarzyszenia Pomocy Dzieciom i Młodzieży z Problemami Zdrowotnymi “Nasza Ameryka”, które funkcjonuje od 2006 roku. Jest to organizacja pożytku publicznego i jako taka pomogła dotychczas setkom niepełnosprawnych osób oraz ich rodzinom.
 
