@@ -16,6 +16,8 @@ Szpital jest realizatorem strategicznego projektu pn.: „SYGNAŁ PIERWSZY – S
 
 ![Szpital Front](/assets/images/Centrum Psych.jpg)
 
+Więcej informacji na temat centrum można znaleźć w materiale filmowym ![Film](https://youtu.be/13dVpT4Jjg8?si=Jg62ieHQnUmzXvKm)
+
 Od wielu lat angażuję się w działalność społeczną - byłem inicjatorem powołania do życia Stowarzyszenia Pomocy Dzieciom i Młodzieży z Problemami Zdrowotnymi “Nasza Ameryka”, które funkcjonuje od 2006 roku. Jest to organizacja pożytku publicznego i jako taka pomogła dotychczas setkom niepełnosprawnych osób oraz ich rodzinom.
 
 Ponadto w 2008 roku zaangażowałem się w działalność  mającą na celu  poszerzenie w Olsztynku oferty edukacyjnej dla młodzieży, co zaowocowało  powstaniem w naszym mieście drugiego gimnazjum - pod egidą Stowarzyszenia Przyjaciół Szkół Katolickich. Udało się w ten sposób stworzyć niepubliczną i zarazem bezpłatną dla uczniów placówkę, która wspiera rodziców w wychowaniu ich dzieci. Obecnie placówka ta uzupełnia olsztynecką ofertę edukacyjną na poziomie szkoły podstawowej.
